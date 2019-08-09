@@ -1,0 +1,23 @@
+<!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+
+{% if author.cv %}
+  <li>
+    <a href="{{ site.baseurl }}{{ author.cv }}">
+      <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>
+      CV
+    </a>
+  </li>
+{% endif %}
+
+<div class="author__content">
+  {% if author.address %}
+  <div class="author__address" itemprop="description"> <br><strong>Address: </strong>{{ author.address| markdownify }}
+    </div>
+  {% endif %}
+</div>
