@@ -44,6 +44,15 @@ permalink: /resources/
 [15]: https://ww2.ibge.gov.br/english/
 [16]: http://www.econ.puc-rio.br/datazoom/english/index.html
 
+## Computational Resources
+
+* [QuantEcon][17]: Lectures in computational economics on Python and Julia. 
+* [IntroToJulia][18]: A deep introduction to Julia for Data Science and Scientific Computing by the UC Irvine Data Science Initiative.
+
+[17]: https://lectures.quantecon.org/
+[18]: https://ucidatascienceinitiative.github.io/IntroToJulia/
+
+
 
 
 
