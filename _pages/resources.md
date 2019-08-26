@@ -1,12 +1,18 @@
 ---
+layout: single
+classes: wide
 title: Resources and Links
 permalink: /resources/
 ---
 
 
  Some useful links and other stuff
+ 
+<br/>
+ 
+# <center> Data Sources </center>
+- - -
 
-## Data Sources
 
 * [The Groningen Growth and Development Centre][1]: Data on economic growth, productivity and development such as the Penn World Table. 
 * [FRED Economic Data][2]:  Tons of time series provided by the Federal Reserve Bank of St. Louis.
@@ -44,7 +50,12 @@ permalink: /resources/
 [15]: https://ww2.ibge.gov.br/english/
 [16]: http://www.econ.puc-rio.br/datazoom/english/index.html
 
-## Computational Resources
+
+
+<br/> 
+
+# <center> Computational Resources </center>
+- - -
 
 * [QuantEcon][17]: Lectures in computational economics on Python and Julia. 
 * [IntroToJulia][18]: A deep introduction to Julia for Data Science and Scientific Computing by the UC Irvine Data Science Initiative.
