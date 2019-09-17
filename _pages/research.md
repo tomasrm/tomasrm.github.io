@@ -10,8 +10,7 @@ permalink: /research/
 # <center> Working Papers </center>
 - - -
 
-[Wage Inequality and Occupation Polarization: A Dynamic Perspective][1]
-
+[Wage Inequality and Occupation Polarization: A Dynamic Perspective][1] 
 &emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small"> Abstract </button>
 
 <div id="polariz" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -23,7 +22,6 @@ In this paper, I argue that job polarization, the disappearing of middle wage oc
 
 <br/> 
 [Trade-Induced Local Labor Market Shocks and Asymmetric Income Risk][2], joint with [Ursula Mello][3] 
- 
 <button onclick="visib('trade_risk')" class="btn btn--inverse btn--small"> Abstract </button>
 
 <div id="trade_risk" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -41,8 +39,7 @@ This paper investigates empirically the relationship between international trade
 # <center> Work in Progress </center>
 - - -
 
-**Occupation Mismatch and Wealth Inequality**
-
+**Occupation Mismatch and Wealth Inequality** 
 &emsp;<button onclick="visib('occ_mism')" class="btn btn--inverse btn--small"> Abstract </button>
 
 <div id="occ_mism" style="display: none; text-align: justify; line-height: 1.2" ><small>
