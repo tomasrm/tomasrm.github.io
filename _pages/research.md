@@ -52,7 +52,7 @@ In this paper, I study the relationship between occupational mismatch and wealth
 
 **Financing Social Security with Financial Frictions and Underground Economy**, joint with Andrés Erosa and Luisa Fuster
 
-[//]: **Intergenerational Mobility in the "other America": Evidence from Brazilian Surnames**, joint with [Ursula Mello][3] 
+**Intergenerational Mobility in the "other America": Evidence from Brazilian Surnames**, joint with [Ursula Mello][3] 
 
 [//]: **The Aggregate Effects of Cash Transfers: Evidence from Millions of Brazilian Workers**, joint with [André Victor Luduvice][4] 
 
