@@ -109,20 +109,20 @@ analytics:
 author:
   name             : "Tomas R. Martinez"
   avatar           : "/assets/files/portfolio.png"
-  bio              : "PhD Candidate at UC3M"
+  bio              : "Postdoc Researcher at UPF"
   location         : #"Madrid"
   email            :
-  address          : "Universidad Carlos III de Madrid<br>
-                      Department of Economics <br>
-                      Calle Madrid, 126 <br>
-                      28903, Getafe, Spain"
+  address          : "Universitat Pompeu Fabra <br>
+                      Departament d'Economia i Empresa <br>
+                      Ramon Trias-Fargas 25-27 <br>
+                      08005, Barcelona, Spain"
 
   cv                : "/assets/files/TRM_cv.pdf"
 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:torodrig@eco.uc3m.es"
+      url: "mailto:tomas.rodriguez@barcelonagse.eu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -145,7 +145,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:torodrig@eco.uc3m.es"
+      url: "mailto:tomas.rodriguez@barcelonagse.eu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/tomasmartinezzz"

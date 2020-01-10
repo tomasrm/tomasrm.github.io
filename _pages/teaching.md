@@ -10,7 +10,10 @@ permalink: /teaching/
 # <center> Current Teaching </center>
 - - -
 
-  * [Stata Course][3] (Master in Economic Development and Growth - MEDEG, 2019)
+**At UPF:**
+
+
+  * [International Economics 1][4] (undergrad, 2020)
 
 
 <br/> 
@@ -24,7 +27,7 @@ permalink: /teaching/
   * Macroeconomics II (PhD program, 2017, 2016, 2015)<br/> 
    <sup> material in  Matthias' [website][1]<sup>    
 
-  * Stata Course (Master in Economic Development and Growth - MEDEG, 2018)
+  * [Stata Course][3] (Master in Economic Development and Growth - MEDEG, 2018, 2019)
 
   * Macroeconomics (undergrad, 2018, 2017, 2016) <br/> 
    <sup> all the material will be  posted in Aula Global<sup>    
@@ -37,3 +40,5 @@ permalink: /teaching/
 [1]: http://www.eco.uc3m.es/~mkredler/Teaching_PastCourses.html
 [2]: http://www.eco.uc3m.es/docencia/econometria/index.html
 [3]: {{ site.baseurl }}{% link teaching/statacourse/statacourse.md %}
+[4]: {{ site.baseurl }}{% link teaching/internationalecon1/internationalecon1.md %}
+

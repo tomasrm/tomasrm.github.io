@@ -50,7 +50,13 @@ In this paper, I study the relationship between occupational mismatch and wealth
 <br/> 
 **Road Infrastructure and Productivity: Evidence from Mexico**, joint with Laura Jaramillo, Florian Misch and Christian Saborowski
 
+**Financing Social Security with Financial Frictions and Underground Economy**, joint with Andrés Erosa and Luisa Fuster
 
+[//]: **Intergenerational Mobility in the "other America": Evidence from Brazilian Surnames**, joint with [Ursula Mello][3] 
+
+[//]: **The Aggregate Effects of Cash Transfers: Evidence from Millions of Brazilian Workers**, joint with [André Victor Luduvice][4] 
+
+[//]: [4]: https://sites.google.com/sas.upenn.edu/avdluduvice
 
 
 

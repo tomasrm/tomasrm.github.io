@@ -4,10 +4,9 @@ author_profile: true
 #permalink: /
 ---
 
-I am a PhD Candidate in Economics at Universidad Carlos III de Madrid.
+I am a Postdoctoral Researcher at Universitat Pompeu Fabra.
 
 **Research Interests:**
  * Macroeconomics
  * Labor Economics
  * International Trade
- * Inequality
