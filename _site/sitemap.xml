@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/contact/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/blog/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/teaching/internationalecon1/internationalecon1/</loc>
+<loc>http://localhost:4000/teaching/internationalecon1/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/references/</loc>
@@ -19,7 +22,7 @@
 <loc>http://localhost:4000/resources/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/teaching/statacourse/statacourse/</loc>
+<loc>http://localhost:4000/teaching/statacourse/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/teaching/</loc>
@@ -47,6 +50,22 @@
 <url>
 <loc>http://localhost:4000/teaching/internationalecon1/Lecture3.pdf</loc>
 <lastmod>2020-01-15T17:15:18+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/teaching/internationalecon1/Lecture4.pdf</loc>
+<lastmod>2020-01-26T19:25:23+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/teaching/internationalecon1/Lecture5.pdf</loc>
+<lastmod>2020-02-06T23:56:11+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/teaching/internationalecon1/Lecture6.pdf</loc>
+<lastmod>2020-02-10T23:40:58+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/teaching/internationalecon1/Lecture7.pdf</loc>
+<lastmod>2020-02-16T11:03:18+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/teaching/statacourse/Lecture1.pdf</loc>

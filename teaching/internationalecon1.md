@@ -31,3 +31,7 @@ Course 2019-2020, term 2
 * [Lecture 6][7] 
 
 [7]: {{ site.baseurl }}{% link teaching/internationalecon1/Lecture6.pdf %}
+
+* [Lecture 7][8] 
+
+[8]: {{ site.baseurl }}{% link teaching/internationalecon1/Lecture7.pdf %}

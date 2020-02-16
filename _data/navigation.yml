@@ -4,7 +4,11 @@ main:
      url: /research/
    - title: "Teaching"
      url: /teaching/
+   - title: "CV"
+     url: "/assets/files/TRM_cv.pdf"
    - title: "Resources"
      url: /resources/
+   #- title: "Contact"
+   #  url: /contact/
    #- title: "References"
    #  url: /references/

@@ -59,9 +59,11 @@ permalink: /resources/
 
 * [QuantEcon][17]: Lectures in computational economics on Python and Julia. 
 * [IntroToJulia][18]: A deep introduction to Julia for Data Science and Scientific Computing by the UC Irvine Data Science Initiative.
+* [CodersCorners][19]: Tons of tips from the Oxford PhD students'.
 
 [17]: https://lectures.quantecon.org/
 [18]: https://ucidatascienceinitiative.github.io/IntroToJulia/
+[19]: https://www.csae.ox.ac.uk/coders-corner/coders-corner
 
 
 

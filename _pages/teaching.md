@@ -39,6 +39,6 @@ permalink: /teaching/
 
 [1]: http://www.eco.uc3m.es/~mkredler/Teaching_PastCourses.html
 [2]: http://www.eco.uc3m.es/docencia/econometria/index.html
-[3]: {{ site.baseurl }}{% link teaching/statacourse/statacourse.md %}
-[4]: {{ site.baseurl }}{% link teaching/internationalecon1/internationalecon1.md %}
+[3]: {{ site.baseurl }}{% link teaching/statacourse.md %}
+[4]: {{ site.baseurl }}{% link teaching/internationalecon1.md %}
 
