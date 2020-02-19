@@ -32,7 +32,7 @@ This paper investigates empirically the relationship between international trade
 [3]: https://sites.google.com/view/ursulamello/home
 
 **Financing Social Security with Financial Frictions and Underground Economy**, joint with Andrés Erosa and Luisa Fuster. 2020. <br/> 
-<small>[ <a href="#" onclick="visib('undergraound_ff')">Abstract</a> | Draft under request ] </small>
+<small>[ <a href="#" onclick="visib('undergraound_ff')">Abstract</a> | Draft available upon request ] </small>
 
 <div id="undergraound_ff" style="display: none; text-align: justify; line-height: 1.2" ><small>
 What are the aggregate effects of reducing informality in a financially constrained economy? How public financing interacts with policies aiming to reduce informality and increase financial development? This paper answers these questions by using a entrepreneurship model calibrated with matched employer-employee from both formal and informal sectors. The model highlights the role of informal hiring by formal firms, an empirically regularity in developing economies. Although removing informality in a financially constrained economy has pervasive effects on wages and aggregate output, eliminating informality without financial frictions increases aggregate efficiency and output. Moreover, the type of informality matters: targeting informal firms has different implications than focusing on informal workers employed in formal firms. Finally, social security and sales tax revenues increase after a financial liberalization or removing informality. However, the highest gains are achieved if both policies are implemented jointly.
