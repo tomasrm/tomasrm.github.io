@@ -1,7 +1,7 @@
 ---
 #layout: page
 title: Stata Course
-link: /teaching/statacourse/
+permalink: /teaching/statacourse/
 ---
 
 MEDEG (Master in Economic Development Growth) - UC3M 
