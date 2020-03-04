@@ -31,7 +31,7 @@ This paper investigates empirically the relationship between international trade
 [2]: {{ site.baseurl }}{% link assets/files/MartinezMello_trade_risk.pdf %}
 [3]: https://sites.google.com/view/ursulamello/home
 
-**Financing Social Security with Financial Frictions and Underground Economy**, joint with Andrés Erosa and Luisa Fuster. 2020. <br/> 
+**Public Financing with Financial Frictions and Underground Economy**, joint with Andrés Erosa and Luisa Fuster. 2020. <br/> 
 <small>[ <a href="#" onclick="visib('undergraound_ff')">Abstract</a> | Draft available upon request ] </small>
 
 <div id="undergraound_ff" style="display: none; text-align: justify; line-height: 1.2" ><small>
