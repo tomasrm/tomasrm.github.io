@@ -32,12 +32,13 @@ This paper investigates empirically the relationship between international trade
 [3]: https://sites.google.com/view/ursulamello/home
 
 **Public Financing with Financial Frictions and Underground Economy**, joint with Andrés Erosa and Luisa Fuster. 2020. <br/> 
-<small>[ <a href="#" onclick="visib('undergraound_ff')">Abstract</a> | Draft available upon request ] </small>
+<small>[ <a href="#" onclick="visib('undergraound_ff')">Abstract</a> | [Draft][5] ] </small>
 
 <div id="undergraound_ff" style="display: none; text-align: justify; line-height: 1.2" ><small>
-What are the aggregate effects of reducing informality in a financially constrained economy? How public financing interacts with policies aiming to reduce informality and increase financial development? This paper answers these questions by using a entrepreneurship model calibrated with matched employer-employee from both formal and informal sectors. The model highlights the role of informal hiring by formal firms, an empirically regularity in developing economies. Although removing informality in a financially constrained economy has pervasive effects on wages and aggregate output, eliminating informality without financial frictions increases aggregate efficiency and output. Moreover, the type of informality matters: targeting informal firms has different implications than focusing on informal workers employed in formal firms. Finally, social security and sales tax revenues increase after a financial liberalization or removing informality. However, the highest gains are achieved if both policies are implemented jointly.
+What are the aggregate effects of reducing informality in a financially constrained economy? This paper answers this question by developing and calibrating an entrepreneurship model to data on matched employer-employee from both formal and informal sectors in Brazil. The model distinguishes between informality on the business side (extensive margin) and the informal hiring by formal firms (intensive margin). We find that when informality is eliminated along both margins, aggregate output increases by 7.2%, capital by 13.7%, and TFP by 3.5%. The output and TFP increases would be a factor of 1.4 and 1.9 larger if informality were only eliminated on the extensive margin, a result that supports the view that, in an economy with financial frictions, the informal economy can play a positive role by diminishing the negative effects of costly regulations and institutions on the economy. Finally, we find dramatic differences in the cost of financing social security in our baseline model economy relative to an economy with no frictions.
 </small><br><br/></div>
 
+[5]: {{ site.baseurl }}{% link assets/files/EFRM_informal_v2.pdf %}
 
 <br/> 
 

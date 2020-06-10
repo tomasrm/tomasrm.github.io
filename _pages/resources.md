@@ -18,8 +18,9 @@ permalink: /resources/
 * [FRED Economic Data][2]:  Tons of time series provided by the Federal Reserve Bank of St. Louis.
 * [UN Comtrade][3]:  Trade data, very disaggregate by products/countries.
 * [ILO Stat][4]: Labor data, employment and earnings, etc
-* [World Economic Outlook Database][5]: The IMF data, tons about debt, currencies, commodities.
+* [IMF Data][5]: The IMF data. Tons about debt, currencies, commodities. Useful for international/macro.
 * [World Bank][6]: Covers some development topics: health, education, etc.
+* [OECD Data][23]: The OECD data. Lots of cross country data about a variety of topics. 
 * [IPUMS][7]: Tons of harmonized microdata of different countries + many other US data sets.
 * [Eurostat][8]: Lots of micro data from European countries, in many you have to apply access but there are some of public ones too.
 * [LIS][9]: Harmonized income and wealth database from different countries.
@@ -48,7 +49,7 @@ permalink: /resources/
 [2]: https://fred.stlouisfed.org/
 [3]: https://comtrade.un.org/
 [4]: https://www.ilo.org/ilostat/faces/wcnav_defaultSelection;ILOSTATCOOKIE=x0SN_vpOc79bzClL3rSIkzKeE1nAnqTSsJ5kiR_DHYQO6ZL8fdY4!-612270756?_afrLoop=2461855628290016&_afrWindowMode=0&_afrWindowId=null#!%40%40%3F_afrWindowId%3Dnull%26_afrLoop%3D2461855628290016%26_afrWindowMode%3D0%26_adf.ctrl-state%3Drppskfzt1_4
-[5]: https://www.imf.org/external/pubs/ft/weo/2018/01/weodata/index.aspx
+[5]: https://www.imf.org/en/Data
 [6]: https://data.worldbank.org/
 [7]: https://ipums.org/
 [8]: https://ec.europa.eu/eurostat/web/microdata/overview
@@ -66,3 +67,4 @@ permalink: /resources/
 [20]: https://www.python.org/dev/peps/pep-0008/
 [21]: https://www.softcover.io/read/7b8eb7d0/juliabook
 [22]: https://ourworldindata.org/
+[23]: https://data.oecd.org/

@@ -12,15 +12,20 @@ permalink: /teaching/
 
 **At UPF:**
 
+  * [International Economics 2][5] (undergrad, 2020)
 
-  * [International Economics 1][4] (undergrad, 2020)
-
+  * Economics and International Finance (undergrad, 2020)<br/> 
+   <sup> all the material will be  posted in Aula Global<sup>    
 
 <br/> 
 
 
 # <center> Previous Teaching </center>
 - - -
+
+**At UPF:**
+
+  * [International Economics 1][4] (undergrad, 2020)
 
 **At UC3M:**
 
@@ -41,4 +46,5 @@ permalink: /teaching/
 [2]: http://www.eco.uc3m.es/docencia/econometria/index.html
 [3]: {{ site.baseurl }}{% link teaching/statacourse.md %}
 [4]: {{ site.baseurl }}{% link teaching/internationalecon1.md %}
+[5]: {{ site.baseurl }}{% link teaching/internationalecon2.md %}
 
