@@ -5,7 +5,7 @@ classes: wide
 #permalink: /
 ---
 
-I am a Postdoctoral Researcher at Universitat Pompeu Fabra.
+I am a Postdoctoral Researcher at Universitat Pompeu Fabra and Barcelona GSE.
 
 **Research Interests:**
 
