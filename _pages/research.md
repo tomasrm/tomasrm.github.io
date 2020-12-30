@@ -21,11 +21,11 @@ In this paper, I argue that job polarization, the disappearing of middle wage oc
 
 
 
-**Trade-Induced Local Labor Market Shocks and Asymmetric Income Risk**, joint with [Ursula Mello][3]. 2019. <br/> 
+**Trade-induced Local Labor Market Shocks and Asymmetrical Labor Income Risk**, joint with [Ursula Mello][3]. 2020. <br/> 
 <small>[ <a href="#" onclick="visib('trade_risk')">Abstract</a> | [Draft][2] ] </small>
 
 <div id="trade_risk" style="display: none; text-align: justify; line-height: 1.2" ><small>
-This paper investigates empirically the relationship between international trade and inequality in Brazil. In particular, we inspect how exogenous supply and demand shocks affect labor income risk in different regions between 2000 and 2012. Using a longitudinal administrative data set, we find considerable regional heterogeneity in the second and higher moments of the individual income growth distribution. Then, exploiting initial regional sectorial composition, we evaluate the impact of the increase in the Brazil-China trade flows on the dispersion, asymmetry and tails of these distributions. Results indicate that Chinese imports increase the dispersion of income risk. This effect is asymmetrical, since part of the effect comes from the growth of permanent negative shocks relatively to positive ones. The welfare losses of such an increase in risk can be substantial. Through the lens of an incomplete market model, an unborn individual would be willing to forgo up to 7.62% of his consumption to not be part of this riskier labor market. 
+This paper investigates the relationship between international trade and asymmetrical labor income risk. Using the case study of Brazil, we inspect how an increase in import penetration following the China shock impacted the distribution of idiosyncratic earnings changes across the country’s local labor markets, depending on the initial sectoral composition of each region. We find that an increase in import penetration leads to a more disperse and negatively skewed distribution and that these effects can partially be explained by an increase in the volatility of hours worked following job and industry transitions. Moreover, the effect on dispersion grows larger as the lags be- tween periods increase, suggesting a rise in the permanent risk. Through the lens of an incomplete market model, an unborn individual would be willing to forgo up to 4.4% of consumption to avoid the riskier labor market. The welfare cost is half if the higher-order risk is ignored.
 </small><br><br/></div>
 
 [2]: {{ site.baseurl }}{% link assets/files/MartinezMello_trade_risk.pdf %}

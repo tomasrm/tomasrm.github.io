@@ -12,10 +12,8 @@ permalink: /teaching/
 
 **At UPF:**
 
-  * [International Economics 2][5] (undergrad, 2020)
+  * International Economics 1 (undergrad, 2021)
 
-  * Economics and International Finance (undergrad, 2020)<br/> 
-   <sup> all the material will be  posted in Aula Global<sup>    
 
 <br/> 
 
@@ -25,7 +23,11 @@ permalink: /teaching/
 
 **At UPF:**
 
-  * [International Economics 1][4] (undergrad, 2020)
+  
+  * [International Economics 2][5] (undergrad, 2020)
+
+  * Economics and International Finance (undergrad, 2020)<br/> 
+   <sup> all the material will be  posted in Aula Global<sup>    
 
 **At UC3M:**
 
