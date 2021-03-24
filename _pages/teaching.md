@@ -10,10 +10,6 @@ permalink: /teaching/
 # <center> Current Teaching </center>
 - - -
 
-**At UPF:**
-
-  * International Economics 1 (undergrad, 2021)
-
 
 <br/> 
 
@@ -25,6 +21,8 @@ permalink: /teaching/
 
   
   * [International Economics 2][5] (undergrad, 2020)
+  
+  * International Economics 1 (undergrad, 2020)
 
   * Economics and International Finance (undergrad, 2020)<br/> 
    <sup> all the material will be  posted in Aula Global<sup>    
