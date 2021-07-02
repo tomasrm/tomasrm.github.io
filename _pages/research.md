@@ -21,7 +21,7 @@ In this paper, I argue that job polarization, the disappearing of middle wage oc
 
 
 
-**Trade-induced Local Labor Market Shocks and Asymmetrical Labor Income Risk**, joint with [Ursula Mello][3]. 2020. <br/> 
+**Trade Shocks and Higher-Order Earnings Risk in Local Labor Markets**, joint with [Ursula Mello][3]. 2021. <br/> 
 <small>[ <a href="#" onclick="visib('trade_risk')">Abstract</a> | [Draft][2] ] </small>
 
 <div id="trade_risk" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -35,11 +35,10 @@ This paper investigates the relationship between international trade and asymmet
 <small>[ <a href="#" onclick="visib('undergraound_ff')">Abstract</a> | [Draft][5] ] </small>
 
 <div id="undergraound_ff" style="display: none; text-align: justify; line-height: 1.2" ><small>
-What are the aggregate effects of reducing informality in a financially constrained economy? This paper answers this question by developing and calibrating an entrepreneurship model to data on matched employer-employee from both formal and informal sectors in Brazil. The model distinguishes between informality on the business side (extensive margin) and the informal hiring by formal firms (intensive margin). We find that when informality is eliminated along both margins, aggregate output increases by 7.2%, capital by 13.7%, and TFP by 3.5%. The output and TFP increases would be a factor of 1.4 and 1.9 larger if informality were only eliminated on the extensive margin, a result that supports the view that, in an economy with financial frictions, the informal economy can play a positive role by diminishing the negative effects of costly regulations and institutions on the economy. Finally, we find dramatic differences in the cost of financing social security in our baseline model economy relative to an economy with no frictions.
+What are the aggregate effects of informality in a financially constrained economy? We develop and calibrate an entrepreneurship model to data on matched employer-employee from both formal and informal sectors in Brazil. The model distinguishes between informality on the business side (extensive margin) and the informal hiring by formal firms (intensive margin). We find that when informality is eliminated along both margins, aggregate output increases 9.3%, capital 14.7%, TFP 5.4%, and tax revenue 37%. The output and TFP increases would be much larger if informality were only eliminated on the extensive margin, a result that supports the view that the informal economy can play a positive role in an economy with financial frictions. Finally, we find that the output cost of financing social security in our baseline model is about twice as large as the one in an economy with no frictions.
 </small><br><br/></div>
 
-[5]: {{ site.baseurl }}{% link assets/files/EFRM_informal_v6.pdf %}
-
+[5]: {{ site.baseurl }}{% link assets/files/EFM_informality.pdf %}
 <br/> 
 
 # <center> Work in Progress </center>
@@ -55,7 +54,9 @@ In this paper, I study the relationship between occupational mismatch and wealth
 
 **Road Infrastructure and Productivity: Evidence from Mexico**, joint with Laura Jaramillo, Florian Misch and Christian Saborowski
 
-**Intergenerational Mobility in the "other America": Evidence from Brazilian Surnames**, joint with [Ursula Mello][3] 
+**Economic shocks and intergenerational mobility: evidence from Brazilian Surnames**, joint with [Jessica Gagete-Miranda][6], [Ursula Mello][3] and Julián Messina
+
+[6]: https://sites.google.com/view/gagete-miranda/home
 
 [//]: **The Aggregate Effects of Cash Transfers: Evidence from Millions of Brazilian Workers**, joint with [André Victor Luduvice][4] 
 
