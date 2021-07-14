@@ -10,16 +10,6 @@ permalink: /research/
 # <center> Working Papers </center>
 - - -
 
-**Wage Inequality and Occupation Polarization: A Dynamic Perspective**. 2019. <br/>
-<small>[ <a href="#" onclick="visib('polariz')">Abstract</a> | [Draft][1] ] </small>
-
-<div id="polariz" style="display: none; text-align: justify; line-height: 1.2" ><small>
-In this paper, I argue that job polarization, the disappearing of middle wage occupations, can have long lasting effects in the U.S. wage structure. I suggest that, by changing the cross-cohort occupational structure, polarization can impact returns to experience and future wages. Firstly, I document that polarization has different impact across workers of different ages and education. Young workers disproportionally moved to low and high wage occupations in comparison to old workers, with significant differences between educational groups. Secondly, I document substantial heterogeneity in the level and growth of the returns to experience by occupation. Using an overlapping generations model with endogenous education and occupational choice, I show that if there exist complementarities between young and old labor, job polarization can affect the returns to experience. Quantitatively, I use the model to estimate the effect of technological and  demographic changes in the U.S. wage structure accounting for the transition dynamics. During the transition, because of cohort imbalances and occupation switching costs, inequality is higher: college premium can be almost 10% higher than in the steady state and the relative wage of the median with respect to the top occupation is 12% worse. This culminates in a clear policy recommendation: the decrease of occupation switching costs, accelerating the transition and increasing wages of vulnerable groups.
-</small><br><br/></div>
-
-[1]: {{ site.baseurl }}{% link assets/files/Martinez_DynPol.pdf %}
-
-
 
 **Trade Shocks and Higher-Order Earnings Risk in Local Labor Markets**, joint with [Ursula Mello][3]. 2021. <br/> 
 <small>[ <a href="#" onclick="visib('trade_risk')">Abstract</a> | [Draft][2] ] </small>
@@ -39,6 +29,16 @@ What are the aggregate effects of informality in a financially constrained econo
 </small><br><br/></div>
 
 [5]: {{ site.baseurl }}{% link assets/files/EFM_informality.pdf %}
+
+**Wage Inequality and Occupation Polarization: A Dynamic Perspective**. 2019. <br/>
+<small>[ <a href="#" onclick="visib('polariz')">Abstract</a> | [Draft][1] ] </small>
+
+<div id="polariz" style="display: none; text-align: justify; line-height: 1.2" ><small>
+In this paper, I argue that job polarization, the disappearing of middle wage occupations, can have long lasting effects in the U.S. wage structure. I suggest that, by changing the cross-cohort occupational structure, polarization can impact returns to experience and future wages. Firstly, I document that polarization has different impact across workers of different ages and education. Young workers disproportionally moved to low and high wage occupations in comparison to old workers, with significant differences between educational groups. Secondly, I document substantial heterogeneity in the level and growth of the returns to experience by occupation. Using an overlapping generations model with endogenous education and occupational choice, I show that if there exist complementarities between young and old labor, job polarization can affect the returns to experience. Quantitatively, I use the model to estimate the effect of technological and  demographic changes in the U.S. wage structure accounting for the transition dynamics. During the transition, because of cohort imbalances and occupation switching costs, inequality is higher: college premium can be almost 10% higher than in the steady state and the relative wage of the median with respect to the top occupation is 12% worse. This culminates in a clear policy recommendation: the decrease of occupation switching costs, accelerating the transition and increasing wages of vulnerable groups.
+</small><br><br/></div>
+
+[1]: {{ site.baseurl }}{% link assets/files/Martinez_DynPol.pdf %}
+
 <br/> 
 
 # <center> Work in Progress </center>

@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" #"default" # "air", "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tomas Rodriguez Martinez"
+title                    : "Tomas R. Martinez"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Tomas R. Martinez"
@@ -25,7 +25,7 @@ url                      : "https://tomasrm.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/files/upf-logo.png"
+logo                     : "/assets/files/UnB-logo.jpeg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 #breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
@@ -109,20 +109,20 @@ analytics:
 author:
   name             : "Tomas R. Martinez"
   avatar           : "/assets/files/portfolio.png"
-  bio              : "Postdoc Researcher at UPF"
+  bio              : "Assistant Professor at UnB"
   location         : #"Madrid"
   email            : #"tomas.rodriguez@upf.edu"
-  address          : "Universitat Pompeu Fabra <br>
-                      Departament d'Economia i Empresa <br>
-                      Ramon Trias-Fargas 25-27 <br>
-                      08005, Barcelona, Spain"
+  address          : #"Universitat Pompeu Fabra <br>
+                     # Departament d'Economia i Empresa <br>
+                     # Ramon Trias-Fargas 25-27 <br>
+                     # 08005, Barcelona, Spain"
 
   cv                : "/assets/files/TRM_cv.pdf"
 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:tomas.rodriguez@upf.edu"
+      url: "mailto: tomas.martinez@unb.br"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -145,7 +145,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:tomas.rodriguez@upf.edu"
+      url: "mailto: tomas.martinez@unb.br"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/tomasmartinezzz"
