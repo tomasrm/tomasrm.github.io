@@ -7,7 +7,7 @@ permalink: /
 
 **Welcome to my homepage!**
 
-I am an Assistant Professor at the University of Brasilia. 
+I am an Assistant Professor of Economics at the University of Brasilia. 
 
 
 I was previously a Postdoctoral Researcher at Universitat Pompeu Fabra and Barcelona GSE. 
