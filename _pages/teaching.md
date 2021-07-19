@@ -12,7 +12,7 @@ permalink: /teaching/
 
 **At UnB:**
 
-  * Análise Macroeconômica 1 (graduate, 2021)
+  * [Análise Macroeconômica 1][6] (graduate, 2021)
 
   * Introdução à Economia (undergrad, 2021)
 
@@ -53,4 +53,5 @@ permalink: /teaching/
 [3]: {{ site.baseurl }}{% link teaching/statacourse.md %}
 [4]: {{ site.baseurl }}{% link teaching/internationalecon1.md %}
 [5]: {{ site.baseurl }}{% link teaching/internationalecon2.md %}
+[6]: {{ site.baseurl }}{% link teaching/macro1grad.md %}
 
