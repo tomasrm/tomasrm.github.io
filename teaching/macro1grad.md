@@ -12,19 +12,24 @@ Página do curso primeiro curso de Macroeconomia da pós-graduação em Economia
 
 [1]: {{ site.baseurl }}{% link teaching/macro1grad/PlanoMacro_1_2021.pdf %}
 
-* [Fundações de Modelos Dinâmicos de Eq. Geral][2]
+	* [1. Introdução][6]
+
+[6]: {{ site.baseurl }}{% link teaching/macro1grad/1_intro_handout.pdf %}
+
+
+	* [2. Fundações de Modelos Dinâmicos de Eq. Geral][2]
 
 [2]: {{ site.baseurl }}{% link teaching/macro1grad/2_fundacoes_handout.pdf %}
 
-* [Programação Dinâmica 1 (determinística)][3]
+	* [3. Programação Dinâmica 1 (determinística)][3]
 
 [3]: {{ site.baseurl }}{% link teaching/macro1grad/3_prog_dinam_handout.pdf %}
 
-* [Programação Dinâmica 2 (estocástica)][4]
+	* [4. Programação Dinâmica 2 (estocástica)][4]
 
 [4]: {{ site.baseurl }}{% link teaching/macro1grad/4_prog_d_estoc_handout.pdf %}
 
-* [Programação Dinâmica 3 (tempo contínuo)][5]
+	* [5. Programação Dinâmica 3 (tempo contínuo)][5]
 
 [5]: {{ site.baseurl }}{% link teaching/macro1grad/5_ctns_time_handout.pdf %}
 
