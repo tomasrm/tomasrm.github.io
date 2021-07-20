@@ -19,7 +19,7 @@ Página do curso primeiro curso de Macroeconomia da pós-graduação em Economia
 [2]: {{ site.baseurl }}{% link teaching/macro1grad/2_fundacoes_handout.pdf %}
 
 * [3. Programação Dinâmica 1 (determinística)][3]<br/> 
-<small>[[Nota e Código para VFI][7] ] </small>
+<small>[[Nota e Código para VFI (em Julia)][7]] </small>
 
 [7]: {{ site.baseurl }}{% link teaching/macro1grad/vfIter.html %}
 
