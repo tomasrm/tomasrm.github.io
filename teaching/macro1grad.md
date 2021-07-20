@@ -6,7 +6,7 @@ permalink: /teaching/macro1grad/
 
 Análise Macro 1 - UnB (2021.1)
 
-Página do curso primeiro curso de Macroeconomia da pós-graduação em Economia da UnB. [Syllabus][1]
+Página do primeiro curso de Macroeconomia da pós-graduação em Economia da UnB. [Syllabus][1]
 
 [1]: {{ site.baseurl }}{% link teaching/macro1grad/PlanoMacro_1_2021.pdf %}
 
