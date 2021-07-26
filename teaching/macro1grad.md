@@ -33,3 +33,11 @@ Página do primeiro curso de Macroeconomia da pós-graduação em Economia da Un
 
 [5]: {{ site.baseurl }}{% link teaching/macro1grad/5_ctns_time_handout.pdf %}
 
+
+Listas de exercícios:
+
+* [Lista 1][PSET1]
+
+[PSET1]: {{ site.baseurl }}{% link teaching/macro1grad/PSET1.pdf %}
+
+
