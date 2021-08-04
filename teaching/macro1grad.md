@@ -37,7 +37,10 @@ Página do primeiro curso de Macroeconomia da pós-graduação em Economia da Un
 Listas de exercícios:
 
 * [Lista 1][PSET1]
+* [Lista 2][PSET2]
+
 
 [PSET1]: {{ site.baseurl }}{% link teaching/macro1grad/PSET1.pdf %}
+[PSET2]: {{ site.baseurl }}{% link teaching/macro1grad/PSET2.pdf %}
 
 
