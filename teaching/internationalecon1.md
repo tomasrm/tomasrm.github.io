@@ -4,38 +4,38 @@ title: International Economics 1 - Universitat Pompeu Fabra
 permalink: /teaching/internationalecon1/
 ---
 
-Course 2019-2020, term 2
+Course 2020-2021, term 2
 
 
 
-* [Lecture 1][2] 
+* [Introduction][2] 
 
-[2]: {{ site.baseurl }}{% link teaching/internationalecon1/Lecture1.pdf %}
+[2]: {{ site.baseurl }}{% link teaching/internationalecon1/1_Introduction.pdf %}
 
-* [Lecture 2][3] 
+* [Specific Factor Model][3] 
 
-[3]: {{ site.baseurl }}{% link teaching/internationalecon1/Lecture2.pdf %}
+[3]: {{ site.baseurl }}{% link teaching/internationalecon1/2_SpecificFactors.pdf %}
 
-* [Lecture 3][4] 
+* [Heckscher-Ohlin Model][4] 
 
-[4]: {{ site.baseurl }}{% link teaching/internationalecon1/Lecture3.pdf %}
+[4]: {{ site.baseurl }}{% link teaching/internationalecon1/3_HO_model.pdf %}
 
-* [Lecture 4][5] 
+* [The Ricardian Model][5] 
 
-[5]: {{ site.baseurl }}{% link teaching/internationalecon1/Lecture4.pdf %}
+[5]: {{ site.baseurl }}{% link teaching/internationalecon1/4_Ricardo.pdf %}
 
-* [Lecture 5][6] 
+* [Increasing Returns to Scale (Krugman)][6] 
 
-[6]: {{ site.baseurl }}{% link teaching/internationalecon1/Lecture5.pdf %}
+[6]: {{ site.baseurl }}{% link teaching/internationalecon1/5_krugman.pdf %}
 
-* [Lecture 6][7] 
+* [Firms (Melitz)][7] 
 
-[7]: {{ site.baseurl }}{% link teaching/internationalecon1/Lecture6.pdf %}
+[7]: {{ site.baseurl }}{% link teaching/internationalecon1/6_melitz.pdf %}
 
-* [Lecture 7][8] 
+* [FDI (Multinationals)][8] 
 
-[8]: {{ site.baseurl }}{% link teaching/internationalecon1/Lecture7.pdf %}
+[8]: {{ site.baseurl }}{% link teaching/internationalecon1/7_multinationals.pdf %}
 
-* [Lecture 8][9] 
+* [Topics in Trade Policy][9] 
 
-[9]: {{ site.baseurl }}{% link teaching/internationalecon1/Lecture8.pdf %}
+[9]: {{ site.baseurl }}{% link teaching/internationalecon1/8_trade_policy.pdf %}
