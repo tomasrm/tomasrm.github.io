@@ -33,6 +33,14 @@ Página do primeiro curso de Macroeconomia da pós-graduação em Economia da Un
 
 [5]: {{ site.baseurl }}{% link teaching/macro1grad/5_ctns_time_handout.pdf %}
 
+* [6. Crescimento Neoclássico (Ramsey-Cass-Koopmans)][6]
+
+[6]: {{ site.baseurl }}{% link teaching/macro1grad/6_growth_model_handout.pdf %}
+
+* [7. Overlapping Generations Model][7]
+
+[7]: {{ site.baseurl }}{% link teaching/macro1grad/7_olg_model_handout.pdf %}
+
 
 Listas de exercícios:
 
@@ -45,4 +53,8 @@ Listas de exercícios:
 [PSET2]: {{ site.baseurl }}{% link teaching/macro1grad/PSET2.pdf %}
 [PSET3]: {{ site.baseurl }}{% link teaching/macro1grad/PSET3.pdf %}
 
+Provas (Soluções)
 
+* [Parcial 2021.1][parcial2021_1]
+
+[parcial2021_1]: {{ site.baseurl }}{% link teaching/macro1grad/2021_parcial_SOL.pdf %}
