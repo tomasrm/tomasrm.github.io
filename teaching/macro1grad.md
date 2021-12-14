@@ -11,10 +11,10 @@ Página do primeiro curso de Macroeconomia da pós-graduação em Economia da Un
 [s]: {{ site.baseurl }}{% link teaching/macro1grad/PlanoMacro_1_2021.pdf %}
 
 1. [Introdução][1]
+2. [Fundações de Modelos Dinâmicos de Eq. Geral][2]
 
 [1]: {{ site.baseurl }}{% link teaching/macro1grad/1_intro_handout.pdf %}
 
-2. [Fundações de Modelos Dinâmicos de Eq. Geral][2]
 
 [2]: {{ site.baseurl }}{% link teaching/macro1grad/2_fundacoes_handout.pdf %}
 
