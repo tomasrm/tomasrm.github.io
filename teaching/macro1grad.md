@@ -41,6 +41,14 @@ Página do primeiro curso de Macroeconomia da pós-graduação em Economia da Un
 
 [7]: {{ site.baseurl }}{% link teaching/macro1grad/7_olg_model_handout.pdf %}
 
+[//]:* [8. Ciclos Reais de Negócios][8]
+
+[//]:[8]: {{ site.baseurl }}{% link teaching/macro1grad/7_olg_model_handout.pdf %}
+
+[//]:* [9. Modelo Novo-Keynesiano][9]
+
+[//]:[9]: {{ site.baseurl }}{% link teaching/macro1grad/7_olg_model_handout.pdf %}
+
 
 Listas de exercícios:
 
@@ -63,7 +71,7 @@ Listas de exercícios:
 Provas (Soluções)
 
 * [Parcial 2021.1][parcial2021_1]
-* [Final 2021.1][final2021_1]
+[//]:* [Final 2021.1][final2021_1]
 
 [parcial2021_1]: {{ site.baseurl }}{% link teaching/macro1grad/2021_parcial_SOL.pdf %}
-[final2021_1]: {{ site.baseurl }}{% link teaching/macro1grad/2021_final_SOL.pdf.pdf %}
+[//]:[final2021_1]: {{ site.baseurl }}{% link teaching/macro1grad/2021_final_SOL.pdf.pdf %}
