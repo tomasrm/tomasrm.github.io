@@ -41,6 +41,20 @@ Página do primeiro curso de Macroeconomia da pós-graduação em Economia da Un
 
 [7]: {{ site.baseurl }}{% link teaching/macro1grad/7_olg_model_handout.pdf %}
 
+* 8. Ciclos Reais de Negócios
+
+* 9. Modelo Novo-Keynesiano
+
+[//]:* [8. Ciclos Reais de Negócios][8]
+
+[//]:[8]: {{ site.baseurl }}{% link teaching/macro1grad/7_olg_model_handout.pdf %}
+
+[//]:* [9. Modelo Novo-Keynesiano][9]
+
+[//]:[9]: {{ site.baseurl }}{% link teaching/macro1grad/7_olg_model_handout.pdf %}
+
+
+
 Listas de exercícios:
 
 * [Lista 1][PSET1]
