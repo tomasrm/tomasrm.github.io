@@ -10,11 +10,6 @@ permalink: /teaching/
 # <center> Current Teaching </center>
 - - -
 
-**At UnB:**
-
-  * [Análise Macroeconômica 1][6] (graduate, 2021)
-
-  * Introdução à Economia (undergrad, 2021)
 
 
 <br/> 
@@ -22,6 +17,13 @@ permalink: /teaching/
 
 # <center> Previous Teaching </center>
 - - -
+
+**At UnB:**
+
+  * [Análise Macroeconômica 1][6] (graduate, 2021)
+
+  * Introdução à Economia (undergrad, 2021)
+
 
 **At UPF:**
 
