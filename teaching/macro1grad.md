@@ -49,6 +49,8 @@ Listas de exercícios:
 * [Lista 4][PSET4]
 * [Lista 5][PSET5]
 * [Lista 6][PSET6]
+* [Lista 7][PSET7]
+
 
 
 [PSET1]: {{ site.baseurl }}{% link teaching/macro1grad/PSET1.pdf %}
@@ -57,6 +59,7 @@ Listas de exercícios:
 [PSET4]: {{ site.baseurl }}{% link teaching/macro1grad/PSET4.pdf %}
 [PSET5]: {{ site.baseurl }}{% link teaching/macro1grad/PSET5.pdf %}
 [PSET6]: {{ site.baseurl }}{% link teaching/macro1grad/PSET6.pdf %}
+[PSET7]: {{ site.baseurl }}{% link teaching/macro1grad/PSET7.pdf %}
 
 
 Provas (Soluções)
