@@ -10,11 +10,11 @@ Página do primeiro curso de Macroeconomia da pós-graduação em Economia da Un
 
 [s]: {{ site.baseurl }}{% link teaching/macro1grad/PlanoMacro_1_2021.pdf %}
 
-1. [Introdução][1]
-2. [Fundações de Modelos Dinâmicos de Eq. Geral][2]
+* [1. Introdução][1]
 
 [1]: {{ site.baseurl }}{% link teaching/macro1grad/1_intro_handout.pdf %}
 
+* [2. Fundações de Modelos Dinâmicos de Eq. Geral][2]
 
 [2]: {{ site.baseurl }}{% link teaching/macro1grad/2_fundacoes_handout.pdf %}
 
@@ -41,14 +41,11 @@ Página do primeiro curso de Macroeconomia da pós-graduação em Economia da Un
 
 [7]: {{ site.baseurl }}{% link teaching/macro1grad/7_olg_model_handout.pdf %}
 
-[//]:8. Ciclos Reais de Negócios
-[//]:9. Modelo Novo-Keynesiano
-
-[//]:* [8. Ciclos Reais de Negócios][8]
+* [8. Ciclos Reais de Negócios][8]
 
 [//]:[8]: {{ site.baseurl }}{% link teaching/macro1grad/7_olg_model_handout.pdf %}
 
-[//]:* [9. Modelo Novo-Keynesiano][9]
+* [9. Modelo Novo-Keynesiano][9]
 
 [//]:[9]: {{ site.baseurl }}{% link teaching/macro1grad/7_olg_model_handout.pdf %}
 
