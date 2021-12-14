@@ -63,5 +63,7 @@ Listas de exercícios:
 Provas (Soluções)
 
 * [Parcial 2021.1][parcial2021_1]
+* [Final 2021.1][final2021_1]
 
 [parcial2021_1]: {{ site.baseurl }}{% link teaching/macro1grad/2021_parcial_SOL.pdf %}
+[final2021_1]: {{ site.baseurl }}{% link teaching/macro1grad/2021_final_SOL.pdf.pdf %}
