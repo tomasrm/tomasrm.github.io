@@ -10,7 +10,9 @@ permalink: /teaching/
 # <center> Current Teaching </center>
 - - -
 
+  * [Quantitative Macro][7] (graduate, 2022)
 
+  * Introdução à Economia (undergrad, 2022)
 
 <br/> 
 
@@ -56,4 +58,5 @@ permalink: /teaching/
 [4]: {{ site.baseurl }}{% link teaching/internationalecon1.md %}
 [5]: {{ site.baseurl }}{% link teaching/internationalecon2.md %}
 [6]: {{ site.baseurl }}{% link teaching/macro1grad.md %}
+[7]: {{ site.baseurl }}{% link teaching/quantmacro.md %}
 
