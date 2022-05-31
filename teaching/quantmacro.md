@@ -4,24 +4,57 @@ title: Quantitative Macro
 permalink: /teaching/quantmacro/
 ---
 
-Quantitative Macroeconomics with Heterogeneity - UnB (2021.2)
+Quantitative Macroeconomics with Heterogeneity - UnB (2021.2): [Syllabus][s]
 
-[Syllabus][s]
+* ### [Introduction][intro]
 
-[s]: {{ site.baseurl }}{% link teaching/quantmacro/SyllabusQuantMacro.pdf.pdf %}
+* ### Household Heterogeneity
+	- [Motivation][hh_motivation]
+	- [Bewley-Huggett-Aiyagari-Imrohoroglu Model][aiyagari]
+	- [Aiyagari: Computational Details][aiyagari_comp]
+	- [Life Cycle Economies][life_cycle]
+	- [Transition Dynamics and Agg. Uncertainty][agg_uncertainty]
+	- [Heterogeneous Agent New Keynesian][hank]
 
+* ### Firm Heterogeneity
+	- [Motivation][firm_motivation]
+	- [Hopenhayn Model][hopenhayn]
+	- [Hopenhayn-Rogerson][hopenhayn_rogerson]
+	- [Misallocation][misallocation]
+	- [Financial Frictions][financial_fri]
+	- [Firms and Business Cycles][cycles]
 
-* [1. Introduction][lec1]
+* ### [Calibration and the Use of Data in Macro][datainmacro]
 
-[lec1]: {{ site.baseurl }}{% link teaching/quantmacro/1_intro.pdf %}
+[s]: {{ site.baseurl }}{% link teaching/quantmacro/SyllabusQuantMacro.pdf %}
+[intro]: {{ site.baseurl }}{% link teaching/quantmacro/1_intro.pdf %}
 
+[hh_motivation]: {{ site.baseurl }}{% link teaching/quantmacro/motivation_hh.pdf %}
+[aiyagari]: {{ site.baseurl }}{% link teaching/quantmacro/aiyagari.pdf %}
+[aiyagari_comp]: {{ site.baseurl }}{% link teaching/quantmacro/aiyagari_comp.pdf %}
+[life_cycle]: {{ site.baseurl }}{% link teaching/quantmacro/STY2004_lifecycle.pdf %}
+[agg_uncertainty]: {{ site.baseurl }}{% link teaching/quantmacro/transition_KS.pdf %}
+[hank]: {{ site.baseurl }}{% link teaching/quantmacro/HANK.pdf %}
 
+[firm_motivation]: {{ site.baseurl }}{% link teaching/quantmacro/motivation_firm.pdf %}
+[hopenhayn]: {{ site.baseurl }}{% link teaching/quantmacro/hopenhayn.pdf %}
+[hopenhayn_rogerson]: {{ site.baseurl }}{% link teaching/quantmacro/hopenhayn_rogerson.pdf %}
+[misallocation]: {{ site.baseurl }}{% link teaching/quantmacro/misallocation.pdf %}
+[financial_fri]: {{ site.baseurl }}{% link teaching/quantmacro/ff_midrigan_xu.pdf %}
+[cycles]: {{ site.baseurl }}{% link teaching/quantmacro/cycles.pdf %}
 
-Problem Sets
+[datainmacro]: {{ site.baseurl }}{% link teaching/quantmacro/data_macro.pdf %}
+
+### Problem Sets
 
 * [Problem Set 0][PSET0]
+* [Problem Set 1][PSET1]
+* [Problem Set 2][PSET2]
 
-[PSET0]: {{ site.baseurl }}{% link teaching/quantmacro/PSET1.pdf %}
+
+[PSET0]: {{ site.baseurl }}{% link teaching/quantmacro/PSET0.pdf %}
+[PSET1]: {{ site.baseurl }}{% link teaching/quantmacro/PSET1.pdf %}
+[PSET2]: {{ site.baseurl }}{% link teaching/quantmacro/PSET2.pdf %}
 
 
 
