@@ -13,8 +13,13 @@ Página do primeiro curso de Macroeconomia da pós-graduação em Economia da Un
 ### Slides:
 
 * 1. [Introdução][intro]
+* 2. [Fundações de Modelos Dinâmicos de Eq. Geral][fundacoes]
+
+
 
 [intro]: {{ site.baseurl }}{% link teaching/macro1grad/1_intro.pdf %}
+[fundacoes]: {{ site.baseurl }}{% link teaching/macro1grad/2_fundacoes.pdf %}
+
 
 
 ### Listas de exercícios:
