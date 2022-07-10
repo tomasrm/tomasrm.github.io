@@ -10,7 +10,7 @@ permalink: /
 I am an Assistant Professor of Economics at the University of Brasilia. 
 
 
-I was previously a Postdoctoral Researcher at Universitat Pompeu Fabra and Barcelona GSE. 
+I was previously a Postdoctoral Researcher at Universitat Pompeu Fabra and Barcelona School of Economics. 
 I received a PhD in Economics from Universidad Carlos III de Madrid in 2019.
 
 

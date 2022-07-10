@@ -33,10 +33,13 @@ Página do primeiro curso de Macroeconomia da pós-graduação em Economia da Un
 
 * [Lista 1][PSET1]
 * [Lista 2][PSET2]
+* [Lista 2][PSET3]
 
 
 [PSET1]: {{ site.baseurl }}{% link teaching/macro1grad/PSET1.pdf %}
 [PSET2]: {{ site.baseurl }}{% link teaching/macro1grad/PSET2.pdf %}
+[PSET3]: {{ site.baseurl }}{% link teaching/macro1grad/PSET3.pdf %}
+
 
 ### Provas (Soluções):
 

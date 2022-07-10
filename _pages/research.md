@@ -11,7 +11,7 @@ permalink: /research/
 - - -
 
 
-**Trade Shocks and Higher-Order Earnings Risk in Local Labor Markets**, joint with [Ursula Mello][3]. 2021. <br/> 
+**Trade Shocks and Higher-Order Earnings Risk in Local Labor Markets**, joint with [Ursula Mello][3]. 2021. *R&R International Economic Review* <br/> 
 <small>[ <a href="#" onclick="visib('trade_risk')">Abstract</a> | [Draft][2] ] </small>
 
 <div id="trade_risk" style="display: none; text-align: justify; line-height: 1.2" ><small>
