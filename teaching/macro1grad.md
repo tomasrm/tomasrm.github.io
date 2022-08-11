@@ -49,7 +49,7 @@ Página do primeiro curso de Macroeconomia da pós-graduação em Economia da Un
 
 ### Provas (Soluções):
 
-* [Parcial 2021.1][parcial2021_1][Parcial 2022.1][parcial2022_1]
+* [Parcial 2021.1][parcial2021_1] [Parcial 2022.1][parcial2022_1]
 * [Final 2021.1][final2021_1]
 
 [parcial2021_1]: {{ site.baseurl }}{% link teaching/macro1grad/2021_parcial_SOL.pdf %}
