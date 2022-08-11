@@ -18,6 +18,8 @@ Página do primeiro curso de Macroeconomia da pós-graduação em Economia da Un
 <small>[[Nota e Código para VFI (em Julia)][vfi]] </small>
 * [4. Programação Dinâmica 2 (estocástica)][dp_stoch]
 * [5. Programação Dinâmica 3 (tempo contínuo)][dp_ctns]
+* [6. Crescimento Neoclássico (Ramsey-Cass-Koopmans)][RCK]
+* [7. Overlapping Generations Model][OLG]
 
 
 [intro]: {{ site.baseurl }}{% link teaching/macro1grad/1_intro.pdf %}
@@ -26,7 +28,8 @@ Página do primeiro curso de Macroeconomia da pós-graduação em Economia da Un
 [vfi]: {{ site.baseurl }}{% link teaching/macro1grad/vfIter.html %}
 [dp_stoch]: {{ site.baseurl }}{% link teaching/macro1grad/4_prog_d_estoc.pdf %}
 [dp_ctns]: {{ site.baseurl }}{% link teaching/macro1grad/5_ctns_time.pdf %}
-
+[RCK]: {{ site.baseurl }}{% link teaching/macro1grad/6_growth_model.pdf %}
+[OLG]: {{ site.baseurl }}{% link teaching/macro1grad/7_olg_model.pdf %}
 
 
 ### Listas de exercícios:
@@ -46,9 +49,10 @@ Página do primeiro curso de Macroeconomia da pós-graduação em Economia da Un
 
 ### Provas (Soluções):
 
-* [Parcial 2021.1][parcial2021_1]
+* [Parcial 2021.1][parcial2021_1][Parcial 2022.1][parcial2022_1]
 * [Final 2021.1][final2021_1]
 
 [parcial2021_1]: {{ site.baseurl }}{% link teaching/macro1grad/2021_parcial_SOL.pdf %}
 [final2021_1]: {{ site.baseurl }}{% link teaching/macro1grad/2021_final_SOL.pdf %}
+[parcial2022_1]: {{ site.baseurl }}{% link teaching/macro1grad/2022_parcial_SOL.pdf %}
 
