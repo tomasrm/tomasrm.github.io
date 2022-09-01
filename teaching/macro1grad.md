@@ -20,7 +20,8 @@ Página do primeiro curso de Macroeconomia da pós-graduação em Economia da Un
 * [5. Programação Dinâmica 3 (tempo contínuo)][dp_ctns]
 * [6. Crescimento Neoclássico (Ramsey-Cass-Koopmans)][RCK]
 * [7. Overlapping Generations Model][OLG]
-
+* [8. Ciclos Reais de Negócios][RBC]
+* [9. Modelos Novo-Keynesianos][NK]
 
 [intro]: {{ site.baseurl }}{% link teaching/macro1grad/1_intro.pdf %}
 [fundacoes]: {{ site.baseurl }}{% link teaching/macro1grad/2_fundacoes.pdf %}
@@ -30,6 +31,8 @@ Página do primeiro curso de Macroeconomia da pós-graduação em Economia da Un
 [dp_ctns]: {{ site.baseurl }}{% link teaching/macro1grad/5_ctns_time.pdf %}
 [RCK]: {{ site.baseurl }}{% link teaching/macro1grad/6_growth_model.pdf %}
 [OLG]: {{ site.baseurl }}{% link teaching/macro1grad/7_olg_model.pdf %}
+[RBC]: {{ site.baseurl }}{% link teaching/macro1grad/8_RBC_model.pdf %}
+[NK]: {{ site.baseurl }}{% link teaching/macro1grad/9_NK_model.pdf %}
 
 
 ### Listas de exercícios:
@@ -39,6 +42,8 @@ Página do primeiro curso de Macroeconomia da pós-graduação em Economia da Un
 * [Lista 3][PSET3]
 * [Lista 4][PSET4]
 * [Lista 5][PSET5]
+* [Lista 6][PSET6]
+* [Lista 7][PSET7]
 
 
 
@@ -47,6 +52,8 @@ Página do primeiro curso de Macroeconomia da pós-graduação em Economia da Un
 [PSET3]: {{ site.baseurl }}{% link teaching/macro1grad/PSET3.pdf %}
 [PSET4]: {{ site.baseurl }}{% link teaching/macro1grad/PSET4.pdf %}
 [PSET5]: {{ site.baseurl }}{% link teaching/macro1grad/PSET5.pdf %}
+[PSET6]: {{ site.baseurl }}{% link teaching/macro1grad/PSET6.pdf %}
+[PSET7]: {{ site.baseurl }}{% link teaching/macro1grad/PSET7.pdf %}
 
 
 ### Provas (Soluções):
