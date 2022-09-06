@@ -21,6 +21,7 @@ Página do primeiro curso de Macroeconomia da pós-graduação em Economia da Un
 * [6. Crescimento Neoclássico (Ramsey-Cass-Koopmans)][RCK]
 * [7. Overlapping Generations Model][OLG]
 * [8. Ciclos Reais de Negócios][RBC]
+<small>[[Resolvendo o Modelo RBC (em Julia)][rbc_solve]] </small>
 * [9. Modelos Novo-Keynesianos][NK]
 
 [intro]: {{ site.baseurl }}{% link teaching/macro1grad/1_intro.pdf %}
@@ -32,6 +33,7 @@ Página do primeiro curso de Macroeconomia da pós-graduação em Economia da Un
 [RCK]: {{ site.baseurl }}{% link teaching/macro1grad/6_growth_model.pdf %}
 [OLG]: {{ site.baseurl }}{% link teaching/macro1grad/7_olg_model.pdf %}
 [RBC]: {{ site.baseurl }}{% link teaching/macro1grad/8_RBC_model.pdf %}
+[rbc_solve]: {{ site.baseurl }}{% link teaching/macro1grad/RBC_SolveDSGE.html %}
 [NK]: {{ site.baseurl }}{% link teaching/macro1grad/9_NK_model.pdf %}
 
 
