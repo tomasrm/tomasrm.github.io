@@ -20,7 +20,7 @@ Página do primeiro curso de Macroeconomia da pós-graduação em Economia da Un
 * [5. Programação Dinâmica 3 (tempo contínuo)][dp_ctns]
 * [6. Crescimento Neoclássico (Ramsey-Cass-Koopmans)][RCK]
 * [7. Overlapping Generations Model][OLG]
-* [8. Ciclos Reais de Negócios][RBC]
+* [8. Ciclos Reais de Negócios][RBC]<br/>
 <small>[[Resolvendo o Modelo RBC (em Julia)][rbc_solve]] </small>
 * [9. Modelos Novo-Keynesianos][NK]
 
