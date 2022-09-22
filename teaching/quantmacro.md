@@ -30,7 +30,7 @@ Quantitative Macroeconomics with Heterogeneity - UnB (2021.2): [Syllabus][s]
 
 * ### [Calibration and the Use of Data in Macro][datainmacro]
 
-[s]: {{ site.baseurl }}{% link teaching/quantmacro/SyllabusQuantMacro.pdf %}
+[s]: {{ site.baseurl }}{% link teaching/quantmacro/EmentaMacroQuant.pdf %}
 [intro]: {{ site.baseurl }}{% link teaching/quantmacro/1_intro.pdf %}
 
 [hh_motivation]: {{ site.baseurl }}{% link teaching/quantmacro/motivation_hh.pdf %}
