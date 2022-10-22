@@ -4,7 +4,7 @@ title: Quantitative Macro
 permalink: /teaching/quantmacro/
 ---
 
-Quantitative Macroeconomics with Heterogeneity - UnB (2021.2): [Syllabus][s]
+Quantitative Macroeconomics with Heterogeneity - [Syllabus][s]
 
 * ### [Introduction][intro]
 
