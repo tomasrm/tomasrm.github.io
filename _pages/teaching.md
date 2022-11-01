@@ -14,7 +14,7 @@ permalink: /teaching/
 
   * [Quantitative Macro][7] (graduate, 2022)
 
-  * Econometria 1 (undergrad, 2022)
+  * Econometria (undergrad, 2022)
 
 <br/> 
 
