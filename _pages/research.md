@@ -22,13 +22,13 @@ This paper investigates the relationship between international trade and asymmet
 [ursula]: https://sites.google.com/view/ursulamello/home
 
 **Public Financing with Financial Frictions and Underground Economy**, joint with Andrés Erosa and Luisa Fuster. 2022. *R&R Journal of Monetary Economics* <br/> 
-<small>[ <a href="#" onclick="visib('undergraound_ff')">Abstract</a> | [Draft][informal_FF] </small>
+<small>[ <a href="#" onclick="visib('undergraound_ff')">Abstract</a> | [Draft][informal_FF] ] </small>
 
 <div id="undergraound_ff" style="display: none; text-align: justify; line-height: 1.2" ><small>
 What are the aggregate effects of informality in a financially constrained economy? We develop and calibrate an entrepreneurship model to data on matched employer-employee from both formal and informal sectors in Brazil. The model distinguishes between informality on the business side (extensive margin) and the informal hiring by formal firms (intensive margin). We find that when informality is eliminated along both margins, aggregate output increases 9.3%, capital 14.7%, TFP 5.4%, and tax revenue 37%. The output and TFP increases would be much larger if informality were only eliminated on the extensive margin, a result that supports the view that the informal economy can play a positive role in an economy with financial frictions. Finally, we find that the output cost of financing social security in our baseline model is about twice as large as the one in an economy with no frictions.
 </small><br><br/></div>
 
-[//]:[5]: {{ site.baseurl }}{% link assets/files/EFM_informality.pdf %}
+[//]:[informal_FF]: {{ site.baseurl }}{% link assets/files/EFM_informality.pdf %}
 [informal_FF]: {{ site.baseurl }}{% link assets/files/EFM_resub.pdf %}
 
 
