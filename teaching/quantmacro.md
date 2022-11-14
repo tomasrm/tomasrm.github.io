@@ -17,6 +17,7 @@ Quantitative Macroeconomics with Heterogeneity - [Syllabus][s]
 	- [Life Cycle Economies][life_cycle]
 	- [Transition Dynamics and Agg. Uncertainty][agg_uncertainty]<br/> 
 	<small>[[Transition Dynamics and IRF Simulation using Boppart-Krussell-Mitman (in Julia)][transition_BKM]] </small>
+	<br/>  <small>[[Krusell-Smith using Sequence-Space Jacobian (in Python)][sequence_space_jacob]] </small>
 	- [Heterogeneous Agent New Keynesian][hank]
 
 * ### Firm Heterogeneity
@@ -53,6 +54,7 @@ Quantitative Macroeconomics with Heterogeneity - [Syllabus][s]
 [aiyagari_egm_code]: {{ site.baseurl }}{% link teaching/quantmacro/Aiyagari_EGM_notebook.jl.html %}
 [aiyagari_vfi_code]: {{ site.baseurl }}{% link teaching/quantmacro/Aiyagari_simple_notebook.jl.html %}
 [transition_BKM]: {{ site.baseurl }}{% link teaching/quantmacro/MIT_aiyagari_notebook.jl.html %}
+[sequence_space_jacob]: {{ site.baseurl }}{% link teaching/quantmacro/krusell_smith_seq_space_jac.py %}
 [hopenhayn_code]: {{ site.baseurl }}{% link teaching/quantmacro/hopenhayn1992_notebook.jl.html %}
 [hoperog_code]: {{ site.baseurl }}{% link teaching/quantmacro/hopenhayn_rogerson1993_notebook.jl.html %}
 
