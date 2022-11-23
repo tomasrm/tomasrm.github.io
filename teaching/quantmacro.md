@@ -19,7 +19,7 @@ Quantitative Macroeconomics with Heterogeneity - [Syllabus][s]
 	<small>[[Transition Dynamics and IRF Simulation using Boppart-Krussell-Mitman (in Julia)][transition_BKM]] </small>
 	<br/>  <small>[[Krusell-Smith using Sequence-Space Jacobian (in Python)][sequence_space_jacob]] </small>
 	- [HANK: Monetary Policy (KMV, 2018)][hank_monetary]
-	- [HANK: Fiscal Policy (ARS, 2018)][hank_fiscal]
+	- [HANK: Fiscal Policy (ARS, 2018)]
 
 
 * ### Firm Heterogeneity
@@ -42,7 +42,6 @@ Quantitative Macroeconomics with Heterogeneity - [Syllabus][s]
 [life_cycle]: {{ site.baseurl }}{% link teaching/quantmacro/STY2004_lifecycle.pdf %}
 [agg_uncertainty]: {{ site.baseurl }}{% link teaching/quantmacro/transition_KS.pdf %}
 [hank_monetary]: {{ site.baseurl }}{% link teaching/quantmacro/HANK_MonetaryPol.pdf %}
-[hank_fiscal]: {{ site.baseurl }}{% link teaching/quantmacro/HANK_FiscalPolicy.pdf %}
 
 
 [firm_motivation]: {{ site.baseurl }}{% link teaching/quantmacro/motivation_firm.pdf %}
