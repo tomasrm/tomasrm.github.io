@@ -21,7 +21,7 @@ This paper investigates the relationship between international trade and asymmet
 [trade_risk]: {{ site.baseurl }}{% link assets/files/MartinezMello_trade_risk.pdf %}
 [ursula]: https://sites.google.com/view/ursulamello/home
 
-**Public Financing with Financial Frictions and Underground Economy**, joint with Andrés Erosa and Luisa Fuster. 2022. *R&R Journal of Monetary Economics* <br/> 
+**Public Financing with Financial Frictions and Underground Economy**, joint with Andrés Erosa and Luisa Fuster. 2022. *Accepted Journal of Monetary Economics* <br/> 
 <small>[ <a href="#" onclick="visib('undergraound_ff')">Abstract</a> | [Draft][informal_FF] ] </small>
 
 <div id="undergraound_ff" style="display: none; text-align: justify; line-height: 1.2" ><small>

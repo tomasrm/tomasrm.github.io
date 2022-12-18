@@ -13,6 +13,7 @@ Quantitative Macroeconomics with Heterogeneity - [Syllabus][s]
 	- [Bewley-Huggett-Aiyagari-Imrohoroglu Model][aiyagari] 
 	- [Aiyagari: Computational Details][aiyagari_comp]<br/> 
 	<small>[[Notebook and Code for the solution using EGM (in Julia)][aiyagari_egm_code]] </small>
+	<br/> 	<small>[[Notebook and Code for the solution using EGM (in Python / Jupyter Notebook)][aiyagari_egm_code_python]] </small>
 	<br/> 	<small>[[Notebook and Code for the solution using VFI (in Julia)][aiyagari_vfi_code]] </small>
 	- [Life Cycle Economies][life_cycle]
 	- [Transition Dynamics and Agg. Uncertainty][agg_uncertainty]<br/> 
@@ -56,6 +57,7 @@ Quantitative Macroeconomics with Heterogeneity - [Syllabus][s]
 
 
 [aiyagari_egm_code]: {{ site.baseurl }}{% link teaching/quantmacro/Aiyagari_EGM_notebook.jl.html %}
+[aiyagari_egm_code_python]: {{ site.baseurl }}{% link teaching/quantmacro/Aiyagari_EGM.ipynb %}
 [aiyagari_vfi_code]: {{ site.baseurl }}{% link teaching/quantmacro/Aiyagari_simple_notebook.jl.html %}
 [transition_BKM]: {{ site.baseurl }}{% link teaching/quantmacro/MIT_aiyagari_notebook.jl.html %}
 [sequence_space_jacob]: {{ site.baseurl }}{% link teaching/quantmacro/krusell_smith_seq_space_jac.py %}
