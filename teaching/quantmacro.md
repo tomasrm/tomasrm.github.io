@@ -26,6 +26,7 @@ Quantitative Macroeconomics with Heterogeneity - [Syllabus][s]
 * ### Firm Heterogeneity
 	- [Motivation][firm_motivation]
 	- [Hopenhayn Model][hopenhayn] <br/> <small>[[Notebook and Code (in Julia)][hopenhayn_code]] </small>
+	<br/> 	<small>[[Notebook and Code (in Python / Jupyter Notebook)][hopenhayn_python]] </small>
 	- [Hopenhayn-Rogerson][hopenhayn_rogerson]<br/>
 	 	<small>[[Notebook and Code (in Julia)][hoperog_code]] </small>
 	- [Misallocation][misallocation]
@@ -62,6 +63,7 @@ Quantitative Macroeconomics with Heterogeneity - [Syllabus][s]
 [transition_BKM]: {{ site.baseurl }}{% link teaching/quantmacro/MIT_aiyagari_notebook.jl.html %}
 [sequence_space_jacob]: {{ site.baseurl }}{% link teaching/quantmacro/krusell_smith_seq_space_jac.py %}
 [hopenhayn_code]: {{ site.baseurl }}{% link teaching/quantmacro/hopenhayn1992_notebook.jl.html %}
+[hopenhayn_python]: {{ site.baseurl }}{% link teaching/quantmacro/hopenhayn1992.ipynb %}
 [hoperog_code]: {{ site.baseurl }}{% link teaching/quantmacro/hopenhayn_rogerson1993_notebook.jl.html %}
 
 [lucas_code]: {{ site.baseurl }}{% link teaching/quantmacro/Lucas_1978.jl.html %}
