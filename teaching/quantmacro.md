@@ -29,6 +29,7 @@ Quantitative Macroeconomics with Heterogeneity - [Syllabus][s]
 	<br/> 	<small>[[Notebook and Code (in Python / Jupyter Notebook)][hopenhayn_python]] </small>
 	- [Hopenhayn-Rogerson][hopenhayn_rogerson]<br/>
 	 	<small>[[Notebook and Code (in Julia)][hoperog_code]] </small>
+	<br/> 	<small>[[Notebook and Code (in Python / Jupyter Notebook)][hoperog_python]] </small>
 	- [Misallocation][misallocation]
 	- [Financial Frictions][financial_fri]
 	- [Firms and Business Cycles][cycles]
@@ -64,6 +65,7 @@ Quantitative Macroeconomics with Heterogeneity - [Syllabus][s]
 [sequence_space_jacob]: {{ site.baseurl }}{% link teaching/quantmacro/krusell_smith_seq_space_jac.py %}
 [hopenhayn_code]: {{ site.baseurl }}{% link teaching/quantmacro/hopenhayn1992_notebook.jl.html %}
 [hopenhayn_python]: {{ site.baseurl }}{% link teaching/quantmacro/hopenhayn1992.ipynb %}
+[hoperog_python]: {{ site.baseurl }}{% link teaching/quantmacro/hopenhayn_rogerson1993.ipynb %}
 [hoperog_code]: {{ site.baseurl }}{% link teaching/quantmacro/hopenhayn_rogerson1993_notebook.jl.html %}
 
 [lucas_code]: {{ site.baseurl }}{% link teaching/quantmacro/Lucas_1978.jl.html %}
