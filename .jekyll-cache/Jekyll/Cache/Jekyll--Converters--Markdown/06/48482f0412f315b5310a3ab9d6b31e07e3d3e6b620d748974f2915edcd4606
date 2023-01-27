@@ -1,0 +1,69 @@
+I">$<p><br /></p>
+
+<h1 id="-publications-"><center> Publications </center></h1>
+<hr />
+
+<p><strong>Public Financing with Financial Frictions and Underground Economy</strong>, joint with Andrés Erosa and Luisa Fuster. 2023. <em>Journal of Monetary Economics, Forthcoming.</em> <br /> 
+<small>[ <a href="#" onclick="visib('undergraound_ff')">Abstract</a> | <a href="/assets/files/EFM_JME2023.pdf">Paper</a> | <a href="/assets/files/EFM_resub.pdf">Working Paper (with Online Appendix)</a> |<a href="/assets/files/EFM_Slides_2022_75min.pdf">Slides</a> | <a href="https://www.youtube.com/watch?v=z6Vx5PSeKwU">Non-technical discussion about the paper (in Portuguese)</a>] </small></p>
+
+<div id="undergraound_ff" style="display: none; text-align: justify; line-height: 1.2"><small>
+What are the aggregate effects of informality in a financially constrained economy? We develop and calibrate an entrepreneurship model to data on matched employer-employee from both formal and informal sectors in Brazil. The model distinguishes between informality on the business side (extensive margin) and the informal hiring by formal firms (intensive margin). We find that when informality is eliminated along both margins, aggregate output increases 9.3%, capital 14.7%, TFP 5.4%, and tax revenue 37%. The output and TFP increases would be much larger if informality were only eliminated on the extensive margin, a result that supports the view that the informal economy can play a positive role in an economy with financial frictions. Finally, we find that the output cost of financing social security in our baseline model is about twice as large as the one in an economy with no frictions.
+</small><br /><br /></div>
+
+<h1 id="-working-papers-"><center> Working Papers </center></h1>
+<hr />
+
+<p><strong>Trade Shocks and Higher-Order Earnings Risk in Local Labor Markets</strong>, joint with <a href="https://sites.google.com/view/ursulamello/home">Ursula Mello</a>. 2021. <em>R&amp;R International Economic Review</em> <br /> 
+<small>[ <a href="#" onclick="visib('trade_risk')">Abstract</a> | <a href="/assets/files/MartinezMello_trade_risk.pdf">Draft</a> | <a href="https://focus.bse.eu/how-china-shock-affected-workers-brazil/">BSE Blog Post</a>] </small></p>
+
+<div id="trade_risk" style="display: none; text-align: justify; line-height: 1.2"><small>
+This paper investigates the relationship between international trade and asymmetrical labor income risk. Using the case study of Brazil, we inspect how an increase in import penetration following the China shock impacted the distribution of idiosyncratic earnings changes across the country’s local labor markets, depending on the initial sectoral composition of each region. We find that an increase in import penetration leads to a more disperse and negatively skewed distribution and that these effects can partially be explained by an increase in the volatility of hours worked following job and industry transitions. Moreover, the effect on dispersion grows larger as the lags between periods increase, suggesting a rise in the permanent risk. Through the lens of an incomplete market model, an unborn individual would be willing to forgo up to 4.4% of consumption to avoid the riskier labor market. The welfare cost is half if the higher-order risk is ignored.
+</small><br /><br /></div>
+
+<p><strong>Misallocation and Human Capital Accumulation over the Life Cycle</strong>, joint with Zoubir Benhamouche. 2022. <br /> 
+<small>[ <a href="#" onclick="visib('HC_misall')">Abstract</a> | [Draft (under request)] ] </small></p>
+
+<div id="HC_misall" style="display: none; text-align: justify; line-height: 1.2"><small>
+We develop a life cycle occupational choice model with worker and firm heterogeneity and endogenous human capital accumulation. We calibrate the model to the United States using data on schooling and firm size and use it to study the effect of size- dependent distortions in skill accumulation and productivity. In an application to North African countries, we found that removing the size-dependent distortions increases GDP per capita of North African countries by a range of 2.75 times to 4.5 times, a result that is largely accounted for by the human capital accumulation of workers during the life cycle. Increasing the fraction of high-skill workers to the level of the U.S. without addressing firm-level misallocation falls short in closing the gap between developing and developed countries. These results support the view that the lack of incentives and opportunities for human capital accumulation is an important cause of differences in output per capita in developing economies.
+</small><br /><br /></div>
+
+<p><strong>Wage Inequality and Occupation Polarization: A Dynamic Perspective</strong>. 2019. <br />
+<small>[ <a href="#" onclick="visib('polariz')">Abstract</a> | <a href="/assets/files/Martinez_DynPol.pdf">Draft</a> ] </small></p>
+
+<div id="polariz" style="display: none; text-align: justify; line-height: 1.2"><small>
+In this paper, I argue that job polarization, the disappearing of middle wage occupations, can have long lasting effects in the U.S. wage structure. I suggest that, by changing the cross-cohort occupational structure, polarization can impact returns to experience and future wages. Firstly, I document that polarization has different impact across workers of different ages and education. Young workers disproportionally moved to low and high wage occupations in comparison to old workers, with significant differences between educational groups. Secondly, I document substantial heterogeneity in the level and growth of the returns to experience by occupation. Using an overlapping generations model with endogenous education and occupational choice, I show that if there exist complementarities between young and old labor, job polarization can affect the returns to experience. Quantitatively, I use the model to estimate the effect of technological and  demographic changes in the U.S. wage structure accounting for the transition dynamics. During the transition, because of cohort imbalances and occupation switching costs, inequality is higher: college premium can be almost 10% higher than in the steady state and the relative wage of the median with respect to the top occupation is 12% worse. This culminates in a clear policy recommendation: the decrease of occupation switching costs, accelerating the transition and increasing wages of vulnerable groups.
+</small><br /><br /></div>
+
+<p><br /></p>
+
+<h1 id="-work-in-progress-"><center> Work in Progress </center></h1>
+<hr />
+
+<p><strong>Minimum Wage, Financial Frictions and the Life Cycle of Firms</strong>. 2022. <br />
+<small>[ <a href="#" onclick="visib('occ_mism')">Abstract</a> | <a href="/assets/files/slides_MW_empirical.pdf">Slides</a>] </small></p>
+
+<div id="occ_mism" style="display: none; text-align: justify; line-height: 1.2"><small>
+This paper studies the effects of the minimum wage on the life cycle of firms. Using matched employer-employee and census data, I analyze the large increase in the federal minimum wage in Brazil between 1999 and 2010. Based on a difference-in-differences approach exploiting exposure of both firms and local labor markets to the minimum wage policy, I find that an increase in the minimum wage: (i) decreases the growth rates of small and young establishments, and (ii) increases the growth rates of old and large establishments. Moreover, establishment exit in affected regions increased following the increase of the minimum wage, although I found no effect on the entry of new firms. While traditional monopsony models cannot account for this result, a neoclassical monopsonistic model where firms face financial frictions can rationalize this finding. 
+</small><br /><br /></div>
+
+<p><strong>Occupation Mismatch and Wealth Inequality</strong> <br /> 
+<small>[ <a href="#" onclick="visib('occ_mism')">Abstract</a> ] </small></p>
+
+<div id="occ_mism" style="display: none; text-align: justify; line-height: 1.2"><small>
+In this paper, I study the relationship between occupational mismatch and wealth inequality. Using the NLSY79 combined with occupational requirements from the ONET, I show that (i) there is a negative correlation between wealth and under match but no correlation for over match; (ii) this correlation is stronger for young individuals and (iii) under matched individuals have lower future earnings. I show that this is consistent with a life-cycle model with search and on-the-job human capital accumulation. Wealth-poor workers have shorter unemployment spells and accept jobs in mismatched occupations. Nevertheless, they have lower wage growth and lower lifetime income than their wealth-rich counterparts. This implies a trade-off between consumption insurance and higher future wage. Then, I discuss the implications of an increase in age-dependent unemployment benefits.
+</small><br /><br /></div>
+
+<p><strong>Road Infrastructure and Productivity: Evidence from Mexico</strong>, joint with Laura Jaramillo, Florian Misch and Christian Saborowski</p>
+
+<script>
+ function visib(id) {
+  var x = document.getElementById(id);
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+</script>
+
+:ET

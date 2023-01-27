@@ -1,4 +1,4 @@
-I"ù<p>Quantitative Macroeconomics with Heterogeneity - <a href="/teaching/quantmacro/EmentaMacroQuant.pdf">Syllabus</a></p>
+I"ß<p>Quantitative Macroeconomics with Heterogeneity - <a href="/teaching/quantmacro/EmentaMacroQuant.pdf">Syllabus</a></p>
 
 <ul>
   <li>
@@ -11,22 +11,25 @@
       <li><a href="/teaching/quantmacro/aiyagari.pdf">Bewley-Huggett-Aiyagari-Imrohoroglu Model</a></li>
       <li><a href="/teaching/quantmacro/aiyagari_comp.pdf">Aiyagari: Computational Details</a><br /> 
   <small>[<a href="/teaching/quantmacro/Aiyagari_EGM_notebook.jl.html">Notebook and Code for the solution using EGM (in Julia)</a>] </small>
+  <br /> 	<small>[<a href="/teaching/quantmacro/Aiyagari_EGM.ipynb">Notebook and Code for the solution using EGM (in Python / Jupyter Notebook)</a>] </small>
   <br /> 	<small>[<a href="/teaching/quantmacro/Aiyagari_simple_notebook.jl.html">Notebook and Code for the solution using VFI (in Julia)</a>] </small></li>
       <li><a href="/teaching/quantmacro/STY2004_lifecycle.pdf">Life Cycle Economies</a></li>
       <li><a href="/teaching/quantmacro/transition_KS.pdf">Transition Dynamics and Agg. Uncertainty</a><br /> 
   <small>[<a href="/teaching/quantmacro/MIT_aiyagari_notebook.jl.html">Transition Dynamics and IRF Simulation using Boppart-Krussell-Mitman (in Julia)</a>] </small>
   <br />  <small>[<a href="/teaching/quantmacro/krusell_smith_seq_space_jac.py">Krusell-Smith using Sequence-Space Jacobian (in Python)</a>] </small></li>
       <li><a href="/teaching/quantmacro/HANK_MonetaryPol.pdf">HANK: Monetary Policy (KMV, 2018)</a></li>
-      <li>[HANK: Fiscal Policy (ARS, 2018)]</li>
+      <li><a href="/teaching/quantmacro/HANK_FiscalPolicy.pdf">HANK: Fiscal Policy (ARS, 2018)</a></li>
     </ul>
   </li>
   <li>
     <h3 id="firm-heterogeneity">Firm Heterogeneity</h3>
     <ul>
       <li><a href="/teaching/quantmacro/motivation_firm.pdf">Motivation</a></li>
-      <li><a href="/teaching/quantmacro/hopenhayn.pdf">Hopenhayn Model</a> <br /> <small>[<a href="/teaching/quantmacro/hopenhayn1992_notebook.jl.html">Notebook and Code (in Julia)</a>] </small></li>
+      <li><a href="/teaching/quantmacro/hopenhayn.pdf">Hopenhayn Model</a> <br /> <small>[<a href="/teaching/quantmacro/hopenhayn1992_notebook.jl.html">Notebook and Code (in Julia)</a>] </small>
+  <br /> 	<small>[<a href="/teaching/quantmacro/hopenhayn1992.ipynb">Notebook and Code (in Python / Jupyter Notebook)</a>] </small></li>
       <li><a href="/teaching/quantmacro/hopenhayn_rogerson.pdf">Hopenhayn-Rogerson</a><br />
-   	<small>[<a href="/teaching/quantmacro/hopenhayn_rogerson1993_notebook.jl.html">Notebook and Code (in Julia)</a>] </small></li>
+   	<small>[<a href="/teaching/quantmacro/hopenhayn_rogerson1993_notebook.jl.html">Notebook and Code (in Julia)</a>] </small>
+  <br /> 	<small>[<a href="/teaching/quantmacro/hopenhayn_rogerson1993.ipynb">Notebook and Code (in Python / Jupyter Notebook)</a>] </small></li>
       <li><a href="/teaching/quantmacro/misallocation.pdf">Misallocation</a></li>
       <li><a href="/teaching/quantmacro/ff_midrigan_xu.pdf">Financial Frictions</a></li>
       <li><a href="/teaching/quantmacro/cycles.pdf">Firms and Business Cycles</a></li>
