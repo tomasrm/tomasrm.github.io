@@ -12,7 +12,7 @@ permalink: /research/
 - - -
 
 **Public Financing with Financial Frictions and Underground Economy**, joint with Andrés Erosa and Luisa Fuster. 2023. *Journal of Monetary Economics, Forthcoming.* <br/> 
-<small>[ <a href="#" onclick="visib('undergraound_ff')">Abstract</a> | [Paper][EFM_JME2023] | [Working Paper (with Online Appendix)][informal_FF] |[Slides][EFM_slides] | [Non-technical discussion about the paper (in Portuguese)][linha_divisa]] </small>
+<small>[ <a href="#" onclick="visib('undergraound_ff')">Abstract</a> | [Paper][EFM_JME2023] | [Working Paper (with Online Appendix)][informal_FF] | [Slides][EFM_slides] | [Non-technical discussion about the paper (in Portuguese)][linha_divisa]] </small>
 
 <div id="undergraound_ff" style="display: none; text-align: justify; line-height: 1.2" ><small>
 What are the aggregate effects of informality in a financially constrained economy? We develop and calibrate an entrepreneurship model to data on matched employer-employee from both formal and informal sectors in Brazil. The model distinguishes between informality on the business side (extensive margin) and the informal hiring by formal firms (intensive margin). We find that when informality is eliminated along both margins, aggregate output increases 9.3%, capital 14.7%, TFP 5.4%, and tax revenue 37%. The output and TFP increases would be much larger if informality were only eliminated on the extensive margin, a result that supports the view that the informal economy can play a positive role in an economy with financial frictions. Finally, we find that the output cost of financing social security in our baseline model is about twice as large as the one in an economy with no frictions.
@@ -30,6 +30,7 @@ What are the aggregate effects of informality in a financially constrained econo
 
 
 **Trade Shocks and Higher-Order Earnings Risk in Local Labor Markets**, joint with [Ursula Mello][ursula]. 2021. *R&R International Economic Review* <br/> 
+<small> *Best Paper in Macro at the 44th Meeting of the Brazilian Econometric Society* </small> <br/> 
 <small>[ <a href="#" onclick="visib('trade_risk')">Abstract</a> | [Draft][trade_risk] | [BSE Blog Post][MM_blog]] </small>
 
 <div id="trade_risk" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -63,9 +64,9 @@ In this paper, I argue that job polarization, the disappearing of middle wage oc
 
 
 **Minimum Wage, Financial Frictions and the Life Cycle of Firms**. 2022. <br/>
-<small>[ <a href="#" onclick="visib('occ_mism')">Abstract</a> | [Slides][MW_slides]] </small>
+<small>[ <a href="#" onclick="visib('mw_firms')">Abstract</a> | [Slides][MW_slides]] </small>
 
-<div id="occ_mism" style="display: none; text-align: justify; line-height: 1.2" ><small>
+<div id="mw_firms" style="display: none; text-align: justify; line-height: 1.2" ><small>
 This paper studies the effects of the minimum wage on the life cycle of firms. Using matched employer-employee and census data, I analyze the large increase in the federal minimum wage in Brazil between 1999 and 2010. Based on a difference-in-differences approach exploiting exposure of both firms and local labor markets to the minimum wage policy, I find that an increase in the minimum wage: (i) decreases the growth rates of small and young establishments, and (ii) increases the growth rates of old and large establishments. Moreover, establishment exit in affected regions increased following the increase of the minimum wage, although I found no effect on the entry of new firms. While traditional monopsony models cannot account for this result, a neoclassical monopsonistic model where firms face financial frictions can rationalize this finding. 
 </small><br><br/></div>
 
