@@ -12,9 +12,10 @@ permalink: /teaching/
 
 **At UnB:**
 
-  * [Quantitative Macro][7] (graduate, 2022)
+  * [Análise Macroeconômica 1][6] (graduate, 2021, 2022, 2023)
+  
+  * Introdução à Economia (undergrad, 2021, 2022, 2023)
 
-  * Econometria (undergrad, 2022)
 
 <br/> 
 
@@ -24,9 +25,10 @@ permalink: /teaching/
 
 **At UnB:**
 
-  * [Análise Macroeconômica 1][6] (graduate, 2021, 2022)
-  
-  * Introdução à Economia (undergrad, 2021, 2022)
+
+  * [Quantitative Macro][7] (graduate, 2022)
+
+  * Econometria (undergrad, 2022)
 
 
 **At UPF:**

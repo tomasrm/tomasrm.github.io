@@ -4,16 +4,25 @@ title: Análise Macro 1
 permalink: /teaching/macro1grad/
 ---
 
-Análise Macro 1 - UnB (2023.1)
+Análise Macro 1 - UnB (2022.1)
 
 Página do primeiro curso de Macroeconomia da pós-graduação em Economia da UnB. [Syllabus][s]
 
-[s]: {{ site.baseurl }}{% link teaching/macro1grad/PlanoDeAula.pdf %}
+[s]: {{ site.baseurl }}{% link teaching/macro1grad/PlanoMacro_1_2022.pdf %}
 
 ### Slides:
 
 * [1. Introdução][intro]
-
+* [2. Fundações de Modelos Dinâmicos de Eq. Geral][fundacoes]
+* [3. Programação Dinâmica 1 (determinística)][dynamic_prog]<br/> 
+<small>[[Nota e Código para VFI (em Julia)][vfi]] </small>
+* [4. Programação Dinâmica 2 (estocástica)][dp_stoch]
+* [5. Programação Dinâmica 3 (tempo contínuo)][dp_ctns]
+* [6. Crescimento Neoclássico (Ramsey-Cass-Koopmans)][RCK]
+* [7. Overlapping Generations Model][OLG]
+* [8. Ciclos Reais de Negócios][RBC]<br/>
+<small>[[Resolvendo o Modelo RBC (em Julia)][rbc_solve]] </small>
+* [9. Modelos Novo-Keynesianos][NK]
 
 [intro]: {{ site.baseurl }}{% link teaching/macro1grad/1_intro.pdf %}
 [fundacoes]: {{ site.baseurl }}{% link teaching/macro1grad/2_fundacoes.pdf %}
@@ -29,6 +38,15 @@ Página do primeiro curso de Macroeconomia da pós-graduação em Economia da Un
 
 
 ### Listas de exercícios:
+
+* [Lista 1][PSET1]
+* [Lista 2][PSET2]
+* [Lista 3][PSET3]
+* [Lista 4][PSET4]
+* [Lista 5][PSET5]
+* [Lista 6][PSET6]
+* [Lista 7][PSET7]
+
 
 
 [PSET1]: {{ site.baseurl }}{% link teaching/macro1grad/PSET1.pdf %}
