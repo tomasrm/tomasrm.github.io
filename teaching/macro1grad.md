@@ -14,12 +14,17 @@ Página do primeiro curso de Macroeconomia da pós-graduação em Economia da Un
 
 * [1. Introdução][intro]
 * [2. Fundações de Modelos Dinâmicos de Eq. Geral][fundacoes]
+* [3. Programação Dinâmica 1 (determinística)][dynamic_prog]<br/> 
+<small>[[Nota e Código para VFI (Julia)][vfi]] </small>
+<small>[[Nota e Código para VFI (Python)][vfi_py]] </small>
 
 
 [intro]: {{ site.baseurl }}{% link teaching/macro1grad/1_intro.pdf %}
 [fundacoes]: {{ site.baseurl }}{% link teaching/macro1grad/2_fundacoes.pdf %}
 [dynamic_prog]: {{ site.baseurl }}{% link teaching/macro1grad/3_prog_dinam.pdf %}
 [vfi]: {{ site.baseurl }}{% link teaching/macro1grad/vfIter.html %}
+[vfi_py]: {{ site.baseurl }}{% link teaching/macro1grad/vfIter.ipynb %}
+
 [dp_stoch]: {{ site.baseurl }}{% link teaching/macro1grad/4_prog_d_estoc.pdf %}
 [dp_ctns]: {{ site.baseurl }}{% link teaching/macro1grad/5_ctns_time.pdf %}
 [RCK]: {{ site.baseurl }}{% link teaching/macro1grad/6_growth_model.pdf %}
@@ -31,7 +36,9 @@ Página do primeiro curso de Macroeconomia da pós-graduação em Economia da Un
 
 ### Listas de exercícios:
 
-* [Lista 1][PSET1]
+* [Lista 1][PSET1] (Entrega 18/04 via Teams)
+* [Lista 2][PSET2]
+
 
 [PSET1]: {{ site.baseurl }}{% link teaching/macro1grad/PSET1.pdf %}
 [PSET2]: {{ site.baseurl }}{% link teaching/macro1grad/PSET2.pdf %}
