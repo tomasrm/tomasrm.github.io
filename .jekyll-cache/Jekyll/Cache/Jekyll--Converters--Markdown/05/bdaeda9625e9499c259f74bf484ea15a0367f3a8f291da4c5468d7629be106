@@ -1,4 +1,4 @@
-I"'<p>Análise Macro 1 - UnB (2023.1)</p>
+I"*<p>Análise Macro 1 - UnB (2023.1)</p>
 
 <p>Página do primeiro curso de Macroeconomia da pós-graduação em Economia da UnB. <a href="/teaching/macro1grad/PlanoDeAula.pdf">Syllabus</a></p>
 
@@ -6,12 +6,17 @@
 
 <ul>
   <li><a href="/teaching/macro1grad/1_intro.pdf">1. Introdução</a></li>
+  <li><a href="/teaching/macro1grad/2_fundacoes.pdf">2. Fundações de Modelos Dinâmicos de Eq. Geral</a></li>
+  <li><a href="/teaching/macro1grad/3_prog_dinam.pdf">3. Programação Dinâmica 1 (determinística)</a><br /> 
+<small>[<a href="/teaching/macro1grad/vfIter.html">Nota e Código para VFI (Julia)</a>] </small>
+<small>[<a href="/teaching/macro1grad/vfIter.ipynb">Nota e Código para VFI (Python)</a>] </small></li>
 </ul>
 
 <h3 id="listas-de-exercícios">Listas de exercícios:</h3>
 
 <ul>
-  <li><a href="/teaching/macro1grad/PSET1.pdf">Lista 1</a></li>
+  <li><a href="/teaching/macro1grad/PSET1.pdf">Lista 1</a> (Entrega 18/04 via Teams)</li>
+  <li><a href="/teaching/macro1grad/PSET2.pdf">Lista 2</a></li>
 </ul>
 
 <h3 id="provas-soluções">Provas (Soluções):</h3>

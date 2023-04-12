@@ -41,6 +41,23 @@ permalink: /resources/
 * [PEP 8 - Style Guide for Python Code][20]: Good code practices for Python.
 * [Julia Programming for Operations Research][21]: Soft introduction to Julia and some numerical methods.
 
+<br/> 
+
+# <center> Journal Rankings </center>
+- - -
+
+Students often ask me which academic economic journals are good, which ones they should read, etc. 
+
+There are many international rankings out there, and although the exact answer would depend on the field, I would say these below broadly reflect the view of the profession. Of course, be aware of possible disagreements, how old is the ranking (and whether includes new journals such as AEJs), and methodologies.
+
+* [New Rankings of Economics Journals.][Ranking1] Ham et al (2021).
+* [A 2016 ranking of economics journals based on citations in top 5 journals.][Ranking2]
+* [IDEAS/RePEc Aggregate Rankings for Journals.][Ranking3]
+
+
+[Ranking1]: {{ site.baseurl }}{% link assets/files/rankings/JournalRankings_20211230.pdf %} 
+[Ranking2]: http://economicsjournals.blogspot.com/2016/04/a-2016-ranking-of-economics-journals.html
+[Ranking3]: https://ideas.repec.org/top/top.journals.all.html
 
 
 

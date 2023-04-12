@@ -1,0 +1,53 @@
+I"�<p>Some useful links and other stuff</p>
+
+<p><br /></p>
+
+<h1 id="-data-sources-"><center> Data Sources </center></h1>
+<hr />
+
+<ul>
+  <li><a href="https://www.rug.nl/ggdc/">The Groningen Growth and Development Centre</a>: Data on economic growth, productivity and development such as the Penn World Table.</li>
+  <li><a href="https://fred.stlouisfed.org/">FRED Economic Data</a>:  Tons of time series provided by the Federal Reserve Bank of St. Louis.</li>
+  <li><a href="https://comtrade.un.org/">UN Comtrade</a>:  Trade data, very disaggregate by products/countries.</li>
+  <li><a href="https://www.ilo.org/ilostat/faces/wcnav_defaultSelection;ILOSTATCOOKIE=x0SN_vpOc79bzClL3rSIkzKeE1nAnqTSsJ5kiR_DHYQO6ZL8fdY4!-612270756?_afrLoop=2461855628290016&amp;_afrWindowMode=0&amp;_afrWindowId=null#!%40%40%3F_afrWindowId%3Dnull%26_afrLoop%3D2461855628290016%26_afrWindowMode%3D0%26_adf.ctrl-state%3Drppskfzt1_4">ILO Stat</a>: Labor data, employment and earnings, etc</li>
+  <li><a href="https://www.imf.org/en/Data">IMF Data</a>: The IMF data. Tons about debt, currencies, commodities. Useful for international/macro.</li>
+  <li><a href="https://data.worldbank.org/">World Bank</a>: Covers some development topics: health, education, etc.</li>
+  <li><a href="https://data.oecd.org/">OECD Data</a>: The OECD data. Lots of cross country data about a variety of topics.</li>
+  <li><a href="https://ipums.org/">IPUMS</a>: Tons of harmonized microdata of different countries + many other US data sets.</li>
+  <li><a href="https://ec.europa.eu/eurostat/web/microdata/overview">Eurostat</a>: Lots of micro data from European countries, in many you have to apply access but there are some of public ones too.</li>
+  <li><a href="https://www.lisdatacenter.org/">LIS</a>: Harmonized income and wealth database from different countries.</li>
+  <li><a href="https://psidonline.isr.umich.edu/">PSID</a>, <a href="https://www.bls.gov/nls/">NLSY</a>, <a href="http://www.nber.org/data/survey-of-income-and-program-participation-sipp-data.html">SIPP</a>:  US household panel data.</li>
+  <li><a href="https://wid.world/">World Inequality Database</a>: The “Piketty Data”, tons of cross-country data on inequality.</li>
+  <li><a href="http://www.ipeadata.gov.br/Default.aspx">IPEA Data</a>: Brazilian aggregate data and indicators.</li>
+  <li><a href="https://ww2.ibge.gov.br/english/">IBGE</a> and <a href="http://www.econ.puc-rio.br/datazoom/english/index.html">Data Zoom</a>: Brazilian statistical agency and useful source for Brazilian microdata.</li>
+  <li><a href="https://ourworldindata.org/">Our World in Data</a>: Interactive webpage with data from many topics, mostly cross-country and over time.</li>
+</ul>
+
+<p><br /></p>
+
+<h1 id="-computational-resources-"><center> Computational Resources </center></h1>
+<hr />
+
+<ul>
+  <li><a href="https://lectures.quantecon.org/">QuantEcon</a>: Lectures in computational economics on Python and Julia.</li>
+  <li><a href="https://ucidatascienceinitiative.github.io/IntroToJulia/">IntroToJulia</a>: A deep introduction to Julia for Data Science and Scientific Computing by the UC Irvine Data Science Initiative.</li>
+  <li><a href="https://www.csae.ox.ac.uk/coders-corner/coders-corner">CodersCorners</a>: Tons of tips from the Oxford PhD students’ (mostly Stata).</li>
+  <li><a href="https://www.python.org/dev/peps/pep-0008/">PEP 8 - Style Guide for Python Code</a>: Good code practices for Python.</li>
+  <li><a href="https://www.softcover.io/read/7b8eb7d0/juliabook">Julia Programming for Operations Research</a>: Soft introduction to Julia and some numerical methods.</li>
+</ul>
+
+<p><br /></p>
+
+<h1 id="-journal-rankings-"><center> Journal Rankings </center></h1>
+<hr />
+
+<p>Students often ask me which academic economic journals are good, which ones they should read, etc.</p>
+
+<p>There are many international rankings out there, and although the exact answer would depend on the field, I would say these below broadly reflect the view of the profession. Of course, be aware of possible disagreements, how old is the ranking, and methodologies.</p>
+
+<ul>
+  <li><a href="/assets/files/rankings/JournalRankings_20211230.pdf">New Rankings of Economics Journals: Documenting and Explaining the Rise of the New Society Journals.</a> Ham et al (2021).</li>
+  <li><a href="http://economicsjournals.blogspot.com/2016/04/a-2016-ranking-of-economics-journals.html">A 2016 ranking of economics journals based on citations in top 5 journals.</a></li>
+</ul>
+
+:ET

@@ -11,7 +11,7 @@ permalink: /research/
 # <center> Publications </center>
 - - -
 
-**Public Financing with Financial Frictions and Underground Economy**, joint with Andrés Erosa and Luisa Fuster. 2023. *Journal of Monetary Economics, Forthcoming.* <br/> 
+**Public Financing with Financial Frictions and Underground Economy**, joint with Andrés Erosa and Luisa Fuster. 2023. *Journal of Monetary Economics, vol 135, pp 20-36.* <br/> 
 <small>[ <a href="#" onclick="visib('undergraound_ff')">Abstract</a> | [Paper][EFM_JME2023] | [Working Paper (with Online Appendix)][informal_FF] | [Slides][EFM_slides] | [Non-technical discussion about the paper (in Portuguese)][linha_divisa]] </small>
 
 <div id="undergraound_ff" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -63,14 +63,14 @@ In this paper, I argue that job polarization, the disappearing of middle wage oc
 - - -
 
 
-**Minimum Wage, Financial Frictions and the Life Cycle of Firms**. 2022. <br/>
-<small>[ <a href="#" onclick="visib('mw_firms')">Abstract</a> | [Slides][MW_slides]] </small>
+**Minimum Wage, Business Dynamism and the Life Cycle of Firms**, joint with André Victor Luduvice and Alexandre Sollaci. 2023. <br/>
+<small>[ <a href="#" onclick="visib('mw_firms')">Abstract</a> | [Slides (under request)] ] </small>
 
 <div id="mw_firms" style="display: none; text-align: justify; line-height: 1.2" ><small>
 This paper studies the effects of the minimum wage on the life cycle of firms. Using matched employer-employee and census data, I analyze the large increase in the federal minimum wage in Brazil between 1999 and 2010. Based on a difference-in-differences approach exploiting exposure of both firms and local labor markets to the minimum wage policy, I find that an increase in the minimum wage: (i) decreases the growth rates of small and young establishments, and (ii) increases the growth rates of old and large establishments. Moreover, establishment exit in affected regions increased following the increase of the minimum wage, although I found no effect on the entry of new firms. While traditional monopsony models cannot account for this result, a neoclassical monopsonistic model where firms face financial frictions can rationalize this finding. 
 </small><br><br/></div>
 
-[MW_slides]: {{ site.baseurl }}{% link assets/files/slides_MW_empirical.pdf %}
+[//]:[MW_slides]: {{ site.baseurl }}{% link assets/files/slides_MW_empirical.pdf %}
 
 
 

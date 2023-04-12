@@ -38,7 +38,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/assets/files/EFM_JME2023.pdf</loc>
-<lastmod>2023-01-27T09:00:28-03:00</lastmod>
+<lastmod>2023-04-11T13:52:12-03:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/files/EFM_Slides_2022_75min.pdf</loc>
@@ -63,6 +63,14 @@
 <url>
 <loc>http://localhost:4000/assets/files/TRM_cv.pdf</loc>
 <lastmod>2023-02-08T17:43:00-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/files/rankings/A%202016%20ranking%20of%20economics%20journals.pdf</loc>
+<lastmod>2019-01-09T09:48:08-02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/files/rankings/JournalRankings_20211230.pdf</loc>
+<lastmod>2022-01-31T07:32:25-03:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/files/slides_MW_empirical.pdf</loc>
@@ -162,11 +170,11 @@
 </url>
 <url>
 <loc>http://localhost:4000/teaching/macro1grad/2_fundacoes.pdf</loc>
-<lastmod>2022-06-13T19:50:26-03:00</lastmod>
+<lastmod>2023-03-27T21:04:56-03:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/teaching/macro1grad/3_prog_dinam.pdf</loc>
-<lastmod>2022-06-16T21:51:35-03:00</lastmod>
+<lastmod>2023-04-07T14:55:04-03:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/teaching/macro1grad/4_prog_d_estoc.pdf</loc>
@@ -198,7 +206,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/teaching/macro1grad/PSET2.pdf</loc>
-<lastmod>2022-06-27T21:49:47-03:00</lastmod>
+<lastmod>2023-04-07T20:16:59-03:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/teaching/macro1grad/PSET3.pdf</loc>
