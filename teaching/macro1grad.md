@@ -17,7 +17,8 @@ Página do primeiro curso de Macroeconomia da pós-graduação em Economia da Un
 * [3. Programação Dinâmica 1 (determinística)][dynamic_prog]<br/> 
 <small>[[Nota e Código para VFI (Julia)][vfi]] </small>
 <small>[[Nota e Código para VFI (Python)][vfi_py]] </small>
-
+* [4. Programação Dinâmica 2 (estocástica)][dp_stoch]
+* [5. Controle ótimo e programação dinâmica em tempo contínuo][dp_ctns]
 
 [intro]: {{ site.baseurl }}{% link teaching/macro1grad/1_intro.pdf %}
 [fundacoes]: {{ site.baseurl }}{% link teaching/macro1grad/2_fundacoes.pdf %}
