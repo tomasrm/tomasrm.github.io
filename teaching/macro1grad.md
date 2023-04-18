@@ -38,7 +38,9 @@ Página do primeiro curso de Macroeconomia da pós-graduação em Economia da Un
 ### Listas de exercícios:
 
 * [Lista 1][PSET1] (Entrega 18/04 via Teams)
-* [Lista 2][PSET2]
+* [Lista 2][PSET2] (Entrega 05/05 via Teams)
+* [Lista 3][PSET3] (Entrega 22/05 via Teams)
+* [Lista 4][PSET4] (Não precisa entregar)
 
 
 [PSET1]: {{ site.baseurl }}{% link teaching/macro1grad/PSET1.pdf %}
