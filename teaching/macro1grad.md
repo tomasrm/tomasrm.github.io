@@ -19,7 +19,7 @@ Página do primeiro curso de Macroeconomia da pós-graduação em Economia da Un
 <small>[[Nota e Código para VFI (Python)][vfi_py]] </small>
 * [4. Programação Dinâmica 2 (estocástica)][dp_stoch]
 * [5. Controle ótimo e programação dinâmica em tempo contínuo][dp_ctns]
-* [6. Modelo de Crescimento Neoclássico e Política Fiscal][RCK]
+* [6. Modelo de Crescimento Neoclássico e Política Fiscal][RCK]<br/> 
 <small>[[Shooting Algorithm][shooting]] </small>
 * [7. Overlapping Generations Model][OLG]
 * [8. Ciclos Reais de Negócios][RBC]<br/>
@@ -63,6 +63,8 @@ Página do primeiro curso de Macroeconomia da pós-graduação em Economia da Un
 
 * Prova Parcial: 25/05
 * Prova Final: 18/07
+
+#### Soluções:
 
 * [Parcial 2021.1][parcial2021_1] [Parcial 2022.1][parcial2022_1]
 * [Final 2021.1][final2021_1] [Final 2022.1][final2022_1]
