@@ -22,7 +22,9 @@ Página do primeiro curso de Macroeconomia da pós-graduação em Economia da Un
 * [6. Modelo de Crescimento Neoclássico e Política Fiscal][RCK]<br/> 
 <small>[[Shooting Algorithm][shooting]] </small>
 * [7. Overlapping Generations Model][OLG]
-* [8. Ciclos Reais de Negócios][RBC]<br/>
+* [8. Ciclos Reais de Negócios][RBC]
+* [9. Modelo Novo-Keynesiano][NK]
+
 
 [intro]: {{ site.baseurl }}{% link teaching/macro1grad/1_intro.pdf %}
 [fundacoes]: {{ site.baseurl }}{% link teaching/macro1grad/2_fundacoes.pdf %}
