@@ -50,6 +50,9 @@ Página do primeiro curso de Macroeconomia da pós-graduação em Economia da Un
 * [Lista 3][PSET3] (Entrega 22/05 via Teams)
 * [Lista 4][PSET4] (Não precisa entregar)
 * [Lista 5][PSET5] (Entrega XX via Teams)
+* [Lista 6][PSET6] (Entrega XX via Teams)
+* [Lista 7][PSET7] (Entrega XX via Teams)
+
 
 
 [PSET1]: {{ site.baseurl }}{% link teaching/macro1grad/PSET1.pdf %}
