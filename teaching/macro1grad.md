@@ -66,7 +66,7 @@ Página do primeiro curso de Macroeconomia da pós-graduação em Economia da Un
 
 ### Provas:
 
-* Prova Parcial: 25/05
+* Prova Parcial: 30/05
 * Prova Final: 18/07
 
 #### Soluções:
