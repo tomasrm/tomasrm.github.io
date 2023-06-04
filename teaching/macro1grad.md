@@ -49,9 +49,9 @@ Página do primeiro curso de Macroeconomia da pós-graduação em Economia da Un
 * [Lista 2][PSET2] (Entrega 05/05 via Teams)
 * [Lista 3][PSET3] (Entrega 22/05 via Teams)
 * [Lista 4][PSET4] (Não precisa entregar)
-* [Lista 5][PSET5] (Entrega XX via Teams)
-* [Lista 6][PSET6] (Entrega XX via Teams)
-* [Lista 7][PSET7] (Entrega XX via Teams)
+* [Lista 5][PSET5] (Entrega 16/06 via Teams)
+* [Lista 6][PSET6] (Entrega 28/06 via Teams)
+* [Lista 7][PSET7] (Entrega 12/07 via Teams)
 
 
 
