@@ -72,11 +72,12 @@ Página do primeiro curso de Macroeconomia da pós-graduação em Economia da Un
 #### Soluções:
 
 * [Parcial 2021.1][parcial2021_1] [Parcial 2022.1][parcial2022_1] [Parcial 2023.1][parcial2023_1]
-* [Final 2021.1][final2021_1] [Final 2022.1][final2022_1]
+* [Final 2021.1][final2021_1] [Final 2022.1][final2022_1] [Final 2023.1][final2023_1]
 
 [parcial2021_1]: {{ site.baseurl }}{% link teaching/macro1grad/2021_parcial_SOL.pdf %}
 [final2021_1]: {{ site.baseurl }}{% link teaching/macro1grad/2021_final_SOL.pdf %}
 [parcial2022_1]: {{ site.baseurl }}{% link teaching/macro1grad/2022_parcial_SOL.pdf %}
 [final2022_1]: {{ site.baseurl }}{% link teaching/macro1grad/2022_final_SOL.pdf %}
 [parcial2023_1]: {{ site.baseurl }}{% link teaching/macro1grad/2023_parcial_SOL.pdf %}
+[final2023_1]: {{ site.baseurl }}{% link teaching/macro1grad/2023_final_SOL.pdf %}
 
