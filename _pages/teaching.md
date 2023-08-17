@@ -10,12 +10,6 @@ permalink: /teaching/
 # <center> Current Teaching </center>
 - - -
 
-**At UnB:**
-
-  * [Análise Macroeconômica 1][6] (graduate)
-  
-  * Introdução à Economia (undergrad)
-
 
 <br/> 
 
