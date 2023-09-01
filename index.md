@@ -7,10 +7,11 @@ permalink: /
 
 **Welcome to my homepage!**
 
-I am an Assistant Professor of Economics at the University of Brasilia. 
+I am an Assistant Professor of Economics at [Insper][insper]. 
 
 
-I was previously a Postdoctoral Researcher at Universitat Pompeu Fabra and Barcelona School of Economics. 
+I was previously an Assistant Professor at the University of Brasilia and a Postdoctoral Researcher at Universitat Pompeu Fabra and Barcelona School of Economics. 
+
 I received a PhD in Economics from Universidad Carlos III de Madrid in 2019.
 
 
@@ -18,9 +19,9 @@ I received a PhD in Economics from Universidad Carlos III de Madrid in 2019.
 
  * Macroeconomics
  * Labor Economics
- * International Trade
 
 
 
 
+[insper]: https://www.insper.edu.br/
 
