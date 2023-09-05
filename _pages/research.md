@@ -29,12 +29,12 @@ What are the aggregate effects of informality in a financially constrained econo
 - - -
 
 
-**Trade Shocks and Higher-Order Earnings Risk in Local Labor Markets**, joint with [Ursula Mello][ursula]. 2021. *R&R International Economic Review* <br/> 
+**Trade Shocks and Higher-Order Earnings Risk in Local Labor Markets**, joint with [Ursula Mello][ursula]. 2023. *R&R International Economic Review* <br/> 
 <small> *Best Paper in Macro at the 44th Meeting of the Brazilian Econometric Society* </small> <br/> 
 <small>[ <a href="#" onclick="visib('trade_risk')">Abstract</a> | [Draft][trade_risk] | [BSE Blog Post][MM_blog]] </small>
 
 <div id="trade_risk" style="display: none; text-align: justify; line-height: 1.2" ><small>
-This paper investigates the relationship between international trade and asymmetrical labor income risk. Using the case study of Brazil, we inspect how an increase in import penetration following the China shock impacted the distribution of idiosyncratic earnings changes across the country’s local labor markets, depending on the initial sectoral composition of each region. We find that an increase in import penetration leads to a more disperse and negatively skewed distribution and that these effects can partially be explained by an increase in the volatility of hours worked following job and industry transitions. Moreover, the effect on dispersion grows larger as the lags between periods increase, suggesting a rise in the permanent risk. Through the lens of an incomplete market model, an unborn individual would be willing to forgo up to 4.4% of consumption to avoid the riskier labor market. The welfare cost is half if the higher-order risk is ignored.
+This paper investigates the relationship between international trade and asymmetrical labor income risk. Using the case study of Brazil, we inspect how an increase in import penetration following the China shock impacted the distribution of idiosyncratic earnings changes across the country's local labor markets. We find that an increase in import penetration leads to a more dispersed and negatively skewed distribution. These effects can be explained by an increase in the volatility of hours worked following job and industry transitions, particularly from involuntary job separations. Moreover, the observed increase in the dispersion of the distribution across the years suggests a temporary rise in the persistent risk, stemming from the broad reallocation of labor following the trade shock. Through the lens of an incomplete market model, individuals would be willing to forgo as much as 1.8% of consumption to avoid the riskier labor market. 
 </small><br><br/></div>
 
 [trade_risk]: {{ site.baseurl }}{% link assets/files/MartinezMello_trade_risk.pdf %}
