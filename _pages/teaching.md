@@ -11,6 +11,9 @@ permalink: /teaching/
 - - -
 
 
+  * [Workshop sobre Macroeconomia com Agentes Heterogêneos no BCB][workshop_BCB] 
+
+
 <br/> 
 
 
@@ -61,4 +64,6 @@ permalink: /teaching/
 [5]: {{ site.baseurl }}{% link teaching/internationalecon2.md %}
 [6]: {{ site.baseurl }}{% link teaching/macro1grad.md %}
 [7]: {{ site.baseurl }}{% link teaching/quantmacro.md %}
+[workshop_BCB]: {{ site.baseurl }}{% link teaching/ha_bcb.md %}
+
 
