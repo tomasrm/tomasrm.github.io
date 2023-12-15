@@ -11,8 +11,14 @@ permalink: /teaching/
 - - -
 
 
-  * [Workshop sobre Macroeconomia com Agentes Heterogêneos no BCB][workshop_BCB] 
 
+**At INSPER**
+
+  * [Advanced Macroeconomics][8] (PhD, 2024)
+  
+  * [Macroeconomics 1][9] (PhD, 2024)
+  
+  * Macroeconomia Microfundamentada (undergrad, 2024)
 
 <br/> 
 
@@ -20,10 +26,15 @@ permalink: /teaching/
 # <center> Previous Teaching </center>
 - - -
 
+**Others:**
+
+  * [Workshop sobre Macroeconomia com Agentes Heterogêneos no BCB][ementa_BCB] (2023)
+
+
 **At UnB:**
 
 
-  * [Quantitative Macro][7] (graduate, 2022)
+  * Quantitative Macro (graduate, 2022)
   
   * [Análise Macroeconômica 1][6] (graduate, 2021, 2022, 2023)
   
@@ -44,26 +55,27 @@ permalink: /teaching/
 
 **At UC3M:**
 
-  * Macroeconomics II (PhD program, 2017, 2016, 2015)<br/> 
-   <sup> material in  Matthias' [website][1]<sup>    
-
+  * Macroeconomics II (PhD, 2017, 2016, 2015)
+  
   * [Stata Course][3] (Master in Economic Development and Growth - MEDEG, 2018, 2019)
 
   * Macroeconomics (undergrad, 2018, 2017, 2016) <br/> 
    <sup> all the material will be  posted in Aula Global<sup>    
 
-
   * Econometría (undergrad, 2017, 2016, 2015) <br/> 
    <sup> [website][2] <sup>    
   
 
-[1]: http://www.eco.uc3m.es/~mkredler/Teaching_PastCourses.html
 [2]: http://www.eco.uc3m.es/docencia/econometria/index.html
 [3]: {{ site.baseurl }}{% link teaching/statacourse.md %}
 [4]: {{ site.baseurl }}{% link teaching/internationalecon1.md %}
 [5]: {{ site.baseurl }}{% link teaching/internationalecon2.md %}
-[6]: {{ site.baseurl }}{% link teaching/macro1grad.md %}
-[7]: {{ site.baseurl }}{% link teaching/quantmacro.md %}
+[6]: {{ site.baseurl }}{% link teaching/macro1grad_UNB.md %}
+[8]: {{ site.baseurl }}{% link teaching/advmacro.md %}
+[9]: {{ site.baseurl }}{% link teaching/macro1grad.md %}
+
+
 [workshop_BCB]: {{ site.baseurl }}{% link teaching/ha_bcb.md %}
+[ementa_BCB]: {{ site.baseurl }}{% link teaching/ha_bcb/Ementa_HA_BCB.pdf %}
 
 

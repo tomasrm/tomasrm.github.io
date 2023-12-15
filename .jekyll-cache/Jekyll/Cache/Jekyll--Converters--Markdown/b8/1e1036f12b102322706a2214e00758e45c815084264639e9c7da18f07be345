@@ -1,0 +1,34 @@
+I"�<p>Análise Macro 1 - UnB (2023.1)</p>
+
+<p>Página do primeiro curso de Macroeconomia da pós-graduação em Economia da UnB. <a href="/teaching/macro1grad_UNB/PlanoDeAula.pdf">Syllabus</a></p>
+
+<h3 id="slides">Slides:</h3>
+
+<ul>
+  <li><a href="/teaching/macro1grad_UNB/1_intro.pdf">1. Introdução</a></li>
+  <li><a href="/teaching/macro1grad_UNB/2_fundacoes.pdf">2. Fundações de Modelos Dinâmicos de Eq. Geral</a></li>
+  <li><a href="/teaching/macro1grad_UNB/3_prog_dinam.pdf">3. Programação Dinâmica 1 (determinística)</a><br /> 
+<small>[<a href="/teaching/macro1grad_UNB/vfIter.html">Nota e Código para VFI (Julia)</a>] </small>
+<small>[<a href="/teaching/macro1grad_UNB/vfIter.ipynb">Nota e Código para VFI (Python)</a>] </small></li>
+  <li><a href="/teaching/macro1grad_UNB/4_prog_d_estoc.pdf">4. Programação Dinâmica 2 (estocástica)</a></li>
+  <li><a href="/teaching/macro1grad_UNB/5_ctns_time.pdf">5. Controle ótimo e programação dinâmica em tempo contínuo</a></li>
+  <li><a href="/teaching/macro1grad_UNB/6_growth_model.pdf">6. Modelo de Crescimento Neoclássico e Política Fiscal</a><br /> 
+<small>[<a href="/teaching/macro1grad_UNB/shooting.jl.html">Shooting Algorithm</a>] </small></li>
+  <li><a href="/teaching/macro1grad_UNB/7_olg_model.pdf">7. Overlapping Generations Model</a></li>
+  <li><a href="/teaching/macro1grad_UNB/8_RBC_model.pdf">8. Ciclos Reais de Negócios</a></li>
+  <li><a href="/teaching/macro1grad_UNB/9_NK_model.pdf">9. Modelo Novo-Keynesiano</a></li>
+</ul>
+
+<h3 id="listas-de-exercícios">Listas de exercícios:</h3>
+
+<ul>
+  <li><a href="/teaching/macro1grad_UNB/PSET1.pdf">Lista 1</a> (Entrega 18/04 via Teams)</li>
+  <li><a href="/teaching/macro1grad_UNB/PSET2.pdf">Lista 2</a> (Entrega 05/05 via Teams)</li>
+  <li><a href="/teaching/macro1grad_UNB/PSET3.pdf">Lista 3</a> (Entrega 22/05 via Teams)</li>
+  <li><a href="/teaching/macro1grad_UNB/PSET4.pdf">Lista 4</a> (Não precisa entregar)</li>
+  <li><a href="/teaching/macro1grad_UNB/PSET5.pdf">Lista 5</a> (Entrega 16/06 via Teams)</li>
+  <li><a href="/teaching/macro1grad_UNB/PSET6.pdf">Lista 6</a> (Entrega 28/06 via Teams)</li>
+  <li><a href="/teaching/macro1grad_UNB/PSET7.pdf">Lista 7</a> (Entrega 12/07 via Teams)</li>
+</ul>
+
+:ET
