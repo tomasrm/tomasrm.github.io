@@ -4,8 +4,9 @@ title: Advanced Macro
 permalink: /teaching/advmacro/
 ---
 
-Quantitative Macro with Heterogeneous Agents: [Syllabus][s]
+Quantitative Macro with Heterogeneous Agents 
 
+- [Syllabus][s]
 - [Introduction][intro]
 
 * ### Household Heterogeneity
