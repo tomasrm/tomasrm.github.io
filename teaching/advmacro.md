@@ -6,10 +6,10 @@ permalink: /teaching/advmacro/
 
 Quantitative Macro with Heterogeneous Agents: [Syllabus][s]
 
-
+- [Introduction][intro]
 
 * ### Household Heterogeneity
-	- Motivation <!-- [Motivation][hh_motivation] -->
+	- [Motivation][hh_motivation]
 	- [Bewley-Huggett-Aiyagari-Imrohoroglu Model][aiyagari] 
 	- [Aiyagari: Computational Details][aiyagari_comp]<br/> 
 	 	<small>[[Consumption-Savings using EGM (in Python)][consumption_savings_python]] </small>
@@ -31,16 +31,19 @@ Quantitative Macro with Heterogeneous Agents: [Syllabus][s]
 	- [Hopenhayn-Rogerson][hopenhayn_rogerson]<br/>
 	 	<small>[[Notebook and Code (in Julia)][hoperog_code]] </small>
 	<br/> 	<small>[[Notebook and Code (in Python / Jupyter Notebook)][hoperog_python]] </small>
-	<!--  Melitz -->
+	-  Melitz (Placeholder)
 	- [Misallocation][misallocation]
 	- [Financial Frictions][financial_fri]
 	- [Firms and Business Cycles][cycles]
-	<!--  Product and Labor Market Power -->
+	- Product and Labor Market Power (Placeholder)
 
 * ### Calibration and the Use of Data in Macro <!--[Calibration and the Use of Data in Macro][datainmacro] -->
 
 [s]: {{ site.baseurl }}{% link teaching/advmacro/SyllabusAdvMacro.pdf %}
+[intro]: {{ site.baseurl }}{% link teaching/advmacro/intro.pdf %}
 
+
+[hh_motivation]: {{ site.baseurl }}{% link teaching/advmacro/motivation_hh.pdf %}
 [aiyagari]: {{ site.baseurl }}{% link teaching/advmacro/aiyagari.pdf %}
 [aiyagari_comp]: {{ site.baseurl }}{% link teaching/advmacro/aiyagari_computational.pdf %}
 [life_cycle]: {{ site.baseurl }}{% link teaching/advmacro/STY2004_lifecycle.pdf %}
