@@ -6,6 +6,7 @@ permalink: /teaching/advmacro/
 
 Quantitative Macro with Heterogeneous Agents 
 
+
 - [Syllabus][s]
 - [Introduction][intro]
 
