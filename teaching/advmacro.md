@@ -31,7 +31,7 @@ Quantitative Macro with Heterogeneous Agents: [Syllabus][s]
 	- [Hopenhayn-Rogerson][hopenhayn_rogerson]<br/>
 	 	<small>[[Notebook and Code (in Julia)][hoperog_code]] </small>
 	<br/> 	<small>[[Notebook and Code (in Python / Jupyter Notebook)][hoperog_python]] </small>
-	-  Melitz (Placeholder)
+	-  Melitz Model (Placeholder)
 	- [Misallocation][misallocation]
 	- [Financial Frictions][financial_fri]
 	- [Firms and Business Cycles][cycles]
