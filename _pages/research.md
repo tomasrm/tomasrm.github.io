@@ -29,7 +29,7 @@ What are the aggregate effects of informality in a financially constrained econo
 - - -
 
 
-**Trade Shocks and Higher-Order Earnings Risk in Local Labor Markets**, joint with [Ursula Mello][ursula]. 2023. *R&R International Economic Review* <br/> 
+**Trade Shocks and Higher-Order Earnings Risk in Local Labor Markets**, joint with [Ursula Mello][ursula]. 2024. *Accepted International Economic Review* <br/> 
 <small> *Best Paper in Macro at the 44th Meeting of the Brazilian Econometric Society* </small> <br/> 
 <small>[ <a href="#" onclick="visib('trade_risk')">Abstract</a> | [Draft][trade_risk] | [BSE Blog Post][MM_blog]] </small>
 
