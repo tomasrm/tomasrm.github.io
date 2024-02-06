@@ -18,7 +18,7 @@ permalink: /teaching/
   
   * [Macroeconomics 1][9] (PhD, 2024)
   
-  * Macroeconomia Microfundamentada (undergrad, 2024)
+  * [Macroeconomia Microfundamentada][10] (undergrad, 2024)
 
 <br/> 
 
@@ -73,6 +73,8 @@ permalink: /teaching/
 [6]: {{ site.baseurl }}{% link teaching/macro1grad_UNB.md %}
 [8]: {{ site.baseurl }}{% link teaching/advmacro.md %}
 [9]: {{ site.baseurl }}{% link teaching/macro1grad.md %}
+[10]: {{ site.baseurl }}{% link teaching/macro_microfunda.md %}
+
 
 
 [workshop_BCB]: {{ site.baseurl }}{% link teaching/ha_bcb.md %}
