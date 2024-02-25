@@ -4,36 +4,42 @@ title: Macroeconomics 1
 permalink: /teaching/macro1grad/
 ---
 
-Macroeconomics 1
+The first course of the PhD-level sequence in macroeconomics at Insper.
 
-<!--
+* ### [Syllabus][s]
 
-Página do primeiro curso de Macroeconomia da pós-graduação em Economia da UnB. [Syllabus][s]
+* ## Slides
 
--->
-
-
-### Lecture Slides:
-
-<!--
-
-* [1. Introdução][intro]
-* [2. Fundações de Modelos Dinâmicos de Eq. Geral][fundacoes]
-* [3. Programação Dinâmica 1 (determinística)][dynamic_prog]<br/> 
-<small>[[Nota e Código para VFI (Julia)][vfi]] </small>
-<small>[[Nota e Código para VFI (Python)][vfi_py]] </small>
-* [4. Programação Dinâmica 2 (estocástica)][dp_stoch]
-* [5. Controle ótimo e programação dinâmica em tempo contínuo][dp_ctns]
-* [6. Modelo de Crescimento Neoclássico e Política Fiscal][RCK]<br/> 
+* 1. Introduction
+* [2. The Solow Model][2]
+* [3. Foundations of Dynamic General Equilibrium Models: Equilibrium, Welfare, & Uncertainty][3]
+* [4. The Neoclassical Growth Model][4]
+* [5. Dynamic Programming][5]<br/> 
+<small>[[VFI code and notebook (Julia)][vfi]] </small>
+<small>[[VFI code and notebook(Python)][vfi_py]] </small>
+* [6. The Overlapping Generations Model][6]
+* [7. Fiscal Policy][7]<br/> 
 <small>[[Shooting Algorithm][shooting]] </small>
-* [7. Overlapping Generations Model][OLG]
-* [8. Ciclos Reais de Negócios][RBC]
-* [9. Modelo Novo-Keynesiano][NK]
+* [8. The Real Business Cycles Model][8]
+* 9. Search and Matching
 
--->
+[2]: {{ site.baseurl }}{% link teaching/macro1grad/SyllabusMacro1.pdf %}
+
+[2]: {{ site.baseurl }}{% link teaching/macro1grad/2_solow.pdf %}
+[3]: {{ site.baseurl }}{% link teaching/macro1grad/3_dynamic_eq.pdf %}
+[4]: {{ site.baseurl }}{% link teaching/macro1grad/4_neoclassical_growth_model.pdf %}
+[5]: {{ site.baseurl }}{% link teaching/macro1grad/5_DynProgram.pdf %}
+[6]: {{ site.baseurl }}{% link teaching/macro1grad/6_olg_model.pdf %}
+[7]: {{ site.baseurl }}{% link teaching/macro1grad/7_fiscal_policy.pdf %}
+[8]: {{ site.baseurl }}{% link teaching/macro1grad/8_RBC_model.pdf %}
 
 
-### Problem Sets:
+[vfi]: {{ site.baseurl }}{% link teaching/macro1grad/vfIter.html %}
+[vfi_py]: {{ site.baseurl }}{% link teaching/macro1grad/vfIter.ipynb %}
+[shooting]: {{ site.baseurl }}{% link teaching/macro1grad/shooting.jl.html %}
+
+
+* ## Problem Sets:
 
 <!--
 * [Lista 1][PSET1] (Entrega 18/04 via Teams)
