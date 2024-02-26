@@ -10,20 +10,20 @@ The first course of the PhD-level sequence in macroeconomics at Insper.
 
 * ## Slides
 
-* 1. Introduction
-* [2. The Solow Model][2]
-* [3. Foundations of Dynamic General Equilibrium Models: Equilibrium, Welfare, & Uncertainty][3]
-* [4. The Neoclassical Growth Model][4]
-* [5. Dynamic Programming][5]<br/> 
+	1. Introduction
+	2. [The Solow Model][2]
+	3. [Foundations of Dynamic General Equilibrium Models: Equilibrium, Welfare, & Uncertainty][3]
+	4. [The Neoclassical Growth Model][4]
+	5. [Dynamic Programming][5]<br/> 
 <small>[[VFI code and notebook (Julia)][vfi]] </small>
 <small>[[VFI code and notebook(Python)][vfi_py]] </small>
-* [6. The Overlapping Generations Model][6]
-* [7. Fiscal Policy][7]<br/> 
+	6. [The Overlapping Generations Model][6]
+	7. [Fiscal Policy][7]<br/> 
 <small>[[Shooting Algorithm][shooting]] </small>
-* [8. The Real Business Cycles Model][8]
-* 9. Search and Matching
+	8. [The Real Business Cycles Model][8]
+	9. Search and Matching
 
-[2]: {{ site.baseurl }}{% link teaching/macro1grad/SyllabusMacro1.pdf %}
+[s]: {{ site.baseurl }}{% link teaching/macro1grad/SyllabusMacro1.pdf %}
 
 [2]: {{ site.baseurl }}{% link teaching/macro1grad/2_solow.pdf %}
 [3]: {{ site.baseurl }}{% link teaching/macro1grad/3_dynamic_eq.pdf %}
