@@ -10,7 +10,7 @@ The first course of the PhD-level sequence in macroeconomics at Insper.
 
 * ## Slides
 
-	1. Introduction
+	1. [Introduction][1]
 	2. [The Solow Model][2]
 	3. [Foundations of Dynamic General Equilibrium Models: Equilibrium, Welfare, & Uncertainty][3]
 	4. [The Neoclassical Growth Model][4]
@@ -25,6 +25,7 @@ The first course of the PhD-level sequence in macroeconomics at Insper.
 
 [s]: {{ site.baseurl }}{% link teaching/macro1grad/SyllabusMacro1.pdf %}
 
+[1]: {{ site.baseurl }}{% link teaching/macro1grad/1_intro.pdf %}
 [2]: {{ site.baseurl }}{% link teaching/macro1grad/2_solow.pdf %}
 [3]: {{ site.baseurl }}{% link teaching/macro1grad/3_dynamic_eq.pdf %}
 [4]: {{ site.baseurl }}{% link teaching/macro1grad/4_neoclassical_growth_model.pdf %}
