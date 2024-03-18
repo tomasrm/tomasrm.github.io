@@ -65,6 +65,10 @@
 <lastmod>2022-12-15T20:41:51-03:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/assets/files/LMS2024.pdf</loc>
+<lastmod>2024-02-10T13:01:37-03:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/assets/files/MartinezMello_trade_risk.pdf</loc>
 <lastmod>2024-01-31T19:30:02-03:00</lastmod>
 </url>
@@ -293,6 +297,10 @@
 <lastmod>2020-05-20T16:39:46-03:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/teaching/macro1grad/1_intro.pdf</loc>
+<lastmod>2024-03-11T09:22:42-03:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/teaching/macro1grad/2_solow.pdf</loc>
 <lastmod>2024-02-19T13:53:37-03:00</lastmod>
 </url>
@@ -319,6 +327,10 @@
 <url>
 <loc>http://localhost:4000/teaching/macro1grad/8_RBC_model.pdf</loc>
 <lastmod>2024-02-24T19:15:35-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/teaching/macro1grad/9_SearchMatching.pdf</loc>
+<lastmod>2024-03-07T14:43:11-03:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/teaching/macro1grad/SyllabusMacro1.pdf</loc>
@@ -455,6 +467,10 @@
 <url>
 <loc>http://localhost:4000/teaching/macro_microfunda/05_equilibrio.pdf</loc>
 <lastmod>2024-01-23T10:01:33-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/teaching/macro_microfunda/06_politica_fiscal.pdf</loc>
+<lastmod>2024-02-13T20:59:58-03:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/teaching/macro_microfunda/Ementa_MacroMicrofundamentada.pdf</loc>
