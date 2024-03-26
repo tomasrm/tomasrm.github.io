@@ -18,6 +18,7 @@ Microfundamentos de modelos DSGE para graduação.
 	- [4. Produção e Investimento][4] 
 	- [5. Equilíbrio Geral][5] 
 	- [6. Política Fiscal][6] 
+	- [7. Ciclos Reais de Negócios][7] 
 
 
 [1]: {{ site.baseurl }}{% link teaching/macro_microfunda/01_intro.pdf %}
