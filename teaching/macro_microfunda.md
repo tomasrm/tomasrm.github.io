@@ -26,3 +26,4 @@ Microfundamentos de modelos DSGE para graduação.
 [4]: {{ site.baseurl }}{% link teaching/macro_microfunda/04_prod_investimento.pdf %}
 [5]: {{ site.baseurl }}{% link teaching/macro_microfunda/05_equilibrio.pdf %}
 [6]: {{ site.baseurl }}{% link teaching/macro_microfunda/06_politica_fiscal.pdf %}
+[7]: {{ site.baseurl }}{% link teaching/macro_microfunda/07_RBC.pdf %}
