@@ -11,9 +11,9 @@ permalink: /research/
 # <center> Publications </center>
 - - -
 
-**Trade Shocks and Higher-Order Earnings Risk in Local Labor Markets**, joint with [Ursula Mello][ursula]. 2024. *Accepted International Economic Review* <br/> 
+**Trade Shocks and Higher-Order Earnings Risk in Local Labor Markets**, joint with [Ursula Mello][ursula]. 2024. *International Economic Review, Forthcoming.* <br/> 
 <small> *Best Paper in Macro at the 44th Meeting of the Brazilian Econometric Society* </small> <br/> 
-<small>[<a href="#" onclick="visib('trade_risk')">Abstract</a> | [Working Paper (with Online Appendix)][trade_risk] | [BSE Blog Post][MM_blog]] </small>
+<small>[<a href="#" onclick="visib('trade_risk')">Abstract</a> | [Paper][IER2024] | [Working Paper (with Online Appendix)][trade_risk] | [BSE Blog Post][MM_blog]] </small>
 
 <div id="trade_risk" style="display: none; text-align: justify; line-height: 1.2" ><small>
 This paper investigates the relationship between international trade and asymmetrical labor income risk. Using the case study of Brazil, we inspect how an increase in import penetration following the China shock impacted the distribution of idiosyncratic earnings changes across the country’s local labor markets. We find that an increase in import penetration leads to a more dispersed and negatively skewed distribution. These effects can be explained by an increase in the volatility of hours worked following job and industry transitions, particularly from involuntary job separations. Moreover, the observed increase in the dispersion of the distribution across the years suggests a temporary rise in the persistent risk, stemming from the broad reallocation of labor following the trade shock. Through the lens of an incomplete market model, individuals would be willing to forgo as much as 1.8% of consumption to avoid the riskier labor market.
@@ -22,6 +22,9 @@ This paper investigates the relationship between international trade and asymmet
 [trade_risk]: {{ site.baseurl }}{% link assets/files/MartinezMello_trade_risk.pdf %}
 [ursula]: https://sites.google.com/view/ursulamello/home
 [MM_blog]: https://focus.bse.eu/how-china-shock-affected-workers-brazil/
+[IER2024]: https://onlinelibrary.wiley.com/doi/full/10.1111/iere.12703
+
+
 
 **Public Financing with Financial Frictions and Underground Economy**, joint with [Andrés Erosa][erosa] and [Luisa Fuster][luisa_fuster]. 2023. *Journal of Monetary Economics, vol 135, pp 20-36.* <br/> 
 <small>[<a href="#" onclick="visib('undergraound_ff')">Abstract</a> | [Paper][EFM_JME2023] | [Working Paper (with Online Appendix)][informal_FF] | [Slides][EFM_slides] | [Non-technical discussion about the paper (in Portuguese)][linha_divisa]] </small>
