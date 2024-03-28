@@ -43,16 +43,19 @@ The first course of the PhD-level sequence in macroeconomics at Insper.
 
 * ## Problem Sets:
 
-<!--
-* [Lista 1][PSET1] (Entrega 18/04 via Teams)
-* [Lista 2][PSET2] (Entrega 05/05 via Teams)
-* [Lista 3][PSET3] (Entrega 22/05 via Teams)
-* [Lista 4][PSET4] (Não precisa entregar)
-* [Lista 5][PSET5] (Entrega 16/06 via Teams)
-* [Lista 6][PSET6] (Entrega 28/06 via Teams)
-* [Lista 7][PSET7] (Entrega 12/07 via Teams)
+	1. [Problem Set 1][PSET1]
+	2. [Problem Set 2][PSET2] 
+	3. [Problem Set 3][PSET3] 
+	4. [Problem Set 4][PSET4]
+	5. [Problem Set 5][PSET5] 
+	6. [Problem Set 6][PSET6]
+	7. Problem Set 7
 
+[PSET1]: {{ site.baseurl }}{% link teaching/macro1grad/PSET1.pdf %}
+[PSET2]: {{ site.baseurl }}{% link teaching/macro1grad/PSET2.pdf %}
+[PSET3]: {{ site.baseurl }}{% link teaching/macro1grad/PSET3.pdf %}
+[PSET4]: {{ site.baseurl }}{% link teaching/macro1grad/PSET4.pdf %}
+[PSET5]: {{ site.baseurl }}{% link teaching/macro1grad/PSET5.pdf %}
+[PSET6]: {{ site.baseurl }}{% link teaching/macro1grad/PSET6.pdf %}
 
-
--->
 
