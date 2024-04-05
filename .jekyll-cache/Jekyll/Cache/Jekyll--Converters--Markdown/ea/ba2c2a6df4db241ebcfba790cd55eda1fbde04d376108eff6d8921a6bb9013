@@ -1,4 +1,4 @@
-I"X<p>Microfundamentos de modelos DSGE para graduação.</p>
+I"8<p>Microfundamentos de modelos DSGE para graduação.</p>
 
 <ul>
   <li>
@@ -16,6 +16,21 @@
       <li><a href="/teaching/macro_microfunda/04_prod_investimento.pdf">4. Produção e Investimento</a></li>
       <li><a href="/teaching/macro_microfunda/05_equilibrio.pdf">5. Equilíbrio Geral</a></li>
       <li><a href="/teaching/macro_microfunda/06_politica_fiscal.pdf">6. Política Fiscal</a></li>
+      <li><a href="/teaching/macro_microfunda/07_RBC.pdf">7. Ciclos Reais de Negócios</a></li>
+      <li><a href="/teaching/macro_microfunda/08_solving_DSGE.pdf">8. Resolvendo Modelos DSGE</a></li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <h2 id="códigos-matlab--dynare">Códigos Matlab / Dynare</h2>
+    <ul>
+      <li><a href="/teaching/macro_microfunda/MatlabBasics.m">MatlabBasics.m</a></li>
+      <li><a href="/teaching/macro_microfunda/SetDynare.m">SetDynare.m</a></li>
+      <li><a href="/teaching/macro_microfunda/simple_model1.mod">simple_model1.mod</a></li>
+      <li><a href="/teaching/macro_microfunda/simple_model3.mod">simple_model3.mod</a></li>
+      <li><a href="/teaching/macro_microfunda/RBC1.mod">RBC1.mod</a></li>
     </ul>
   </li>
 </ul>
