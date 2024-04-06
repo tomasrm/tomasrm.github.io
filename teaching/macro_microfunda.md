@@ -20,6 +20,7 @@ Microfundamentos de modelos DSGE para graduação.
 	- [6. Política Fiscal][6] 
 	- [7. Ciclos Reais de Negócios][7] 
 	- [8. Resolvendo Modelos DSGE][8] 
+	- [9. Modelo Novo Keynesiano][9] 
 
 
 [1]: {{ site.baseurl }}{% link teaching/macro_microfunda/01_intro.pdf %}
@@ -30,6 +31,7 @@ Microfundamentos de modelos DSGE para graduação.
 [6]: {{ site.baseurl }}{% link teaching/macro_microfunda/06_politica_fiscal.pdf %}
 [7]: {{ site.baseurl }}{% link teaching/macro_microfunda/07_RBC.pdf %}
 [8]: {{ site.baseurl }}{% link teaching/macro_microfunda/08_solving_DSGE.pdf %}
+[9]: {{ site.baseurl }}{% link teaching/macro_microfunda/09_modelo_NK.pdf %}
 
 * ## Códigos Matlab / Dynare
 	- [MatlabBasics.m][MatlabBasics] 
@@ -37,6 +39,9 @@ Microfundamentos de modelos DSGE para graduação.
 	- [simple_model1.mod][simple_model1] 
 	- [simple_model3.mod][simple_model3] 
 	- [RBC1.mod][RBC] 
+	- [NKmodel1.mod][NK1] 
+	- [NKmodel2.mod][NK2] 
+	- [NKmodel3.mod][NK3] 
 
 
 [MatlabBasics]: {{ site.baseurl }}{% link teaching/macro_microfunda/MatlabBasics.m %}
@@ -44,4 +49,7 @@ Microfundamentos de modelos DSGE para graduação.
 [simple_model1]: {{ site.baseurl }}{% link teaching/macro_microfunda/simple_model1.mod %}
 [simple_model3]: {{ site.baseurl }}{% link teaching/macro_microfunda/simple_model3.mod %}
 [RBC]: {{ site.baseurl }}{% link teaching/macro_microfunda/RBC1.mod %}
+[NK1]: {{ site.baseurl }}{% link teaching/macro_microfunda/NKmodel1.mod %}
+[NK2]: {{ site.baseurl }}{% link teaching/macro_microfunda/NKmodel2.mod %}
+[NK3]: {{ site.baseurl }}{% link teaching/macro_microfunda/NKmodel3.mod %}
 
