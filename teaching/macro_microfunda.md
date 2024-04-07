@@ -39,6 +39,7 @@ Microfundamentos de modelos DSGE para graduação.
 	- [simple_model1.mod][simple_model1] 
 	- [simple_model3.mod][simple_model3] 
 	- [RBC1.mod][RBC] 
+	- [RBC_GOVE1.mod][RBCGOV1] 
 	- [NKmodel1.mod][NK1] 
 	- [NKmodel2.mod][NK2] 
 	- [NKmodel3.mod][NK3] 
@@ -49,6 +50,7 @@ Microfundamentos de modelos DSGE para graduação.
 [simple_model1]: {{ site.baseurl }}{% link teaching/macro_microfunda/simple_model1.mod %}
 [simple_model3]: {{ site.baseurl }}{% link teaching/macro_microfunda/simple_model3.mod %}
 [RBC]: {{ site.baseurl }}{% link teaching/macro_microfunda/RBC1.mod %}
+[RBCGOV1]: {{ site.baseurl }}{% link teaching/macro_microfunda/RBC_GOV1.mod %}
 [NK1]: {{ site.baseurl }}{% link teaching/macro_microfunda/NKmodel1.mod %}
 [NK2]: {{ site.baseurl }}{% link teaching/macro_microfunda/NKmodel2.mod %}
 [NK3]: {{ site.baseurl }}{% link teaching/macro_microfunda/NKmodel3.mod %}
