@@ -82,13 +82,16 @@ Quantitative Macro with Heterogeneous Agents
 
 * [Problem Set 0][PSET0] <small>[[Lucas (1978) Span-of-Control Model][lucas_code]] [[Value Function Iteration][vfi_code]]  </small>
 * [Problem Set 1][PSET1]
-* Problem Set 2
+* [Problem Set 2][PSET2] <small>[[PSET2_blank.ipynb][pset2_blank]] </small> 
 * [Problem Set 3][PSET3]
 
 
 [PSET0]: {{ site.baseurl }}{% link teaching/advmacro/PSET0.pdf %}
 [PSET1]: {{ site.baseurl }}{% link teaching/advmacro/PSET1.pdf %}
+[PSET2]: {{ site.baseurl }}{% link teaching/advmacro/PSET2.pdf %}
 [PSET3]: {{ site.baseurl }}{% link teaching/advmacro/PSET3.pdf %}
+
+[pset2_blank]: {{ site.baseurl }}{% link teaching/advmacro/PSET2_blank.ipynb %}
 
 
 
