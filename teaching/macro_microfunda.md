@@ -21,6 +21,7 @@ Microfundamentos de modelos DSGE para graduação.
 	- [7. Ciclos Reais de Negócios][7] 
 	- [8. Resolvendo Modelos DSGE][8] 
 	- [9. Modelo Novo Keynesiano][9] 
+	- [10. Modelo Search and Matching][10] 
 
 
 [1]: {{ site.baseurl }}{% link teaching/macro_microfunda/01_intro.pdf %}
@@ -32,6 +33,8 @@ Microfundamentos de modelos DSGE para graduação.
 [7]: {{ site.baseurl }}{% link teaching/macro_microfunda/07_RBC.pdf %}
 [8]: {{ site.baseurl }}{% link teaching/macro_microfunda/08_solving_DSGE.pdf %}
 [9]: {{ site.baseurl }}{% link teaching/macro_microfunda/09_modelo_NK.pdf %}
+[10]: {{ site.baseurl }}{% link teaching/macro_microfunda/10_modelo_DMP.pdf %}
+
 
 * ## Códigos Matlab / Dynare
 	- [MatlabBasics.m][MatlabBasics] 
@@ -46,6 +49,9 @@ Microfundamentos de modelos DSGE para graduação.
 	- [NKmodel1.mod][NK1] 
 	- [NKmodel2.mod][NK2] 
 	- [NKmodel3.mod][NK3] 
+	- [DMP1.mod][DMP1] 
+	- [DMP2.mod][DMP2] 
+	- [DMP3_fixed_wage.mod][DMP3_fw] 
 
 
 [MatlabBasics]: {{ site.baseurl }}{% link teaching/macro_microfunda/MatlabBasics.m %}
@@ -60,4 +66,8 @@ Microfundamentos de modelos DSGE para graduação.
 [NK1]: {{ site.baseurl }}{% link teaching/macro_microfunda/NKmodel1.mod %}
 [NK2]: {{ site.baseurl }}{% link teaching/macro_microfunda/NKmodel2.mod %}
 [NK3]: {{ site.baseurl }}{% link teaching/macro_microfunda/NKmodel3.mod %}
+
+[DMP1]: {{ site.baseurl }}{% link teaching/macro_microfunda/DMP1.mod %}
+[DMP2]: {{ site.baseurl }}{% link teaching/macro_microfunda/DMP2.mod %}
+[DMP3_fw]: {{ site.baseurl }}{% link teaching/macro_microfunda/DMP3_fixed_wage.mod %}
 
