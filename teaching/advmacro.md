@@ -39,10 +39,11 @@ Quantitative Macro with Heterogeneous Agents
 	- [Firms and Business Cycles][cycles]
 	- Product and Labor Market Power (Placeholder)
 
-- Calibration and the Use of Data in Macro <!--[Calibration and the Use of Data in Macro][datainmacro] -->
+- Calibration and the Use of Data in Macro [Calibration and the Use of Data in Macro][datainmacro]
 
 [s]: {{ site.baseurl }}{% link teaching/advmacro/SyllabusAdvMacro.pdf %}
 [intro]: {{ site.baseurl }}{% link teaching/advmacro/intro.pdf %}
+[datainmacro]: {{ site.baseurl }}{% link teaching/advmacro/data_macro.pdf %}
 
 
 [hh_motivation]: {{ site.baseurl }}{% link teaching/advmacro/motivation_hh.pdf %}
