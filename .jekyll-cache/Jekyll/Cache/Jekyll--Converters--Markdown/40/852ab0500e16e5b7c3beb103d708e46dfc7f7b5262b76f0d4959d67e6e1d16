@@ -1,0 +1,53 @@
+I"	<p>The first course of the PhD-level sequence in macroeconomics at Insper.</p>
+
+<ul>
+  <li>
+    <h3 id="syllabus"><a href="/teaching/macro1grad/SyllabusMacro1.pdf">Syllabus</a></h3>
+  </li>
+  <li>
+    <h2 id="slides">Slides</h2>
+
+    <ol>
+      <li><a href="/teaching/macro1grad/1_intro.pdf">Introduction</a></li>
+      <li><a href="/teaching/macro1grad/2_solow.pdf">The Solow Model</a></li>
+      <li><a href="/teaching/macro1grad/3_dynamic_eq.pdf">Foundations of Dynamic General Equilibrium Models: Equilibrium, Welfare, &amp; Uncertainty</a></li>
+      <li><a href="/teaching/macro1grad/4_neoclassical_growth_model.pdf">The Neoclassical Growth Model</a></li>
+      <li><a href="/teaching/macro1grad/5_DynProgram.pdf">Dynamic Programming</a><br /> 
+<small>[<a href="/teaching/macro1grad/vfIter.html">VFI code and notebook (Julia)</a>] </small>
+<small>[<a href="/teaching/macro1grad/vfIter.ipynb">VFI code and notebook(Python)</a>] </small></li>
+      <li><a href="/teaching/macro1grad/6_olg_model.pdf">The Overlapping Generations Model</a></li>
+      <li><a href="/teaching/macro1grad/7_fiscal_policy.pdf">Fiscal Policy</a><br /> 
+<small>[<a href="/teaching/macro1grad/shooting.jl.html">Shooting Algorithm</a>] </small></li>
+      <li><a href="/teaching/macro1grad/8_RBC_model.pdf">The Real Business Cycles Model</a></li>
+      <li><a href="/teaching/macro1grad/9_SearchMatching.pdf">Search and Matching</a></li>
+    </ol>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <h2 id="problem-sets">Problem Sets:</h2>
+
+    <ol>
+      <li><a href="/teaching/macro1grad/PSET1.pdf">Problem Set 1</a></li>
+      <li><a href="/teaching/macro1grad/PSET2.pdf">Problem Set 2</a></li>
+      <li><a href="/teaching/macro1grad/PSET3.pdf">Problem Set 3</a></li>
+      <li><a href="/teaching/macro1grad/PSET4.pdf">Problem Set 4</a></li>
+      <li><a href="/teaching/macro1grad/PSET5.pdf">Problem Set 5</a></li>
+      <li><a href="/teaching/macro1grad/PSET6.pdf">Problem Set 6</a></li>
+      <li><a href="/teaching/macro1grad/PSET7.pdf">Problem Set 7</a></li>
+    </ol>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <h2 id="exam-solutions">Exam Solutions:</h2>
+    <ul>
+      <li><a href="/teaching/macro1grad/2024_midterm_Solution.pdf">Midterm 2024</a></li>
+      <li><a href="/teaching/macro1grad/2024_final_solution.pdf">Final 2024</a></li>
+    </ul>
+  </li>
+</ul>
+
+:ET

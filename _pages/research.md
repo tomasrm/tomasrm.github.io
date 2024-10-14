@@ -58,6 +58,14 @@ This paper studies the effects of the minimum wage on the life cycle of firms. W
 [alex]: https://sites.google.com/view/alexandresollaci/home
 [IDB_mw]: https://publications.iadb.org/en/minimum-wage-business-dynamism-and-life-cycle-firms
 
+**Revisiting the Facts of Economic Growth: insights from assessing misallocation over 70 years for up to 100 countries**, joint with Thiago Trafane Oliveira Santos. 2024. <br/> 
+<small>[<a href="#" onclick="visib('pwt')">Abstract</a> | [Draft][misal_PWT]] </small>
+
+<div id="pwt" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Assessments of the role played by misallocation in shaping total factor productivity (TFP) have been hindered by constraints in the availability of firm-level data. This paper addresses this issue by developing a static Cournot model that primarily requires standard macroeconomic data to estimate market-power-driven misallocation. We apply this framework to decompose aggregate TFP into technology and allocative efficiency components from 1950 to 2019 for up to a hundred countries from the Penn World Table 10.01. Utilizing this decomposition, we revisit key facts of economic growth. On the one hand, we evaluate the world income frontier as proxied by the US, finding that changes in misallocation can significantly impact short-run growth. On the other hand, we examine the economic performance around the world. Misallocation enhances our understanding of cross-country income differences, even though a substantial unexplained portion persists. We also find a lack of convergence in allocative efficiency, suggesting market-power-driven misallocation is linked, in the long run, to long-lasting country-specific factors such as institutions.
+</small><br><br/></div>
+
+[misal_PWT]: {{ site.baseurl }}{% link assets/files/Misallocation_PWT.pdf %}
 
 **Misallocation and Human Capital Accumulation over the Life Cycle**, joint with Zoubir Benhamouche. 2022. <br/> 
 <small>[<a href="#" onclick="visib('HC_misall')">Abstract</a> | [Draft (under request)]] </small>
@@ -67,7 +75,7 @@ We develop a life cycle occupational choice model with worker and firm heterogen
 </small><br><br/></div>
 
 **Wage Inequality and Occupation Polarization: A Dynamic Perspective**. 2019. <br/>
-<small>[<a href="#" onclick="visib('polariz')">Abstract</a> | [Draft][JMP] ] </small>
+<small>[<a href="#" onclick="visib('polariz')">Abstract</a> | [Draft][JMP]] </small>
 
 <div id="polariz" style="display: none; text-align: justify; line-height: 1.2" ><small>
 In this paper, I argue that job polarization, the disappearing of middle wage occupations, can have long lasting effects in the U.S. wage structure. I suggest that, by changing the cross-cohort occupational structure, polarization can impact returns to experience and future wages. Firstly, I document that polarization has different impact across workers of different ages and education. Young workers disproportionally moved to low and high wage occupations in comparison to old workers, with significant differences between educational groups. Secondly, I document substantial heterogeneity in the level and growth of the returns to experience by occupation. Using an overlapping generations model with endogenous education and occupational choice, I show that if there exist complementarities between young and old labor, job polarization can affect the returns to experience. Quantitatively, I use the model to estimate the effect of technological and  demographic changes in the U.S. wage structure accounting for the transition dynamics. During the transition, because of cohort imbalances and occupation switching costs, inequality is higher: college premium can be almost 10% higher than in the steady state and the relative wage of the median with respect to the top occupation is 12% worse. This culminates in a clear policy recommendation: the decrease of occupation switching costs, accelerating the transition and increasing wages of vulnerable groups.

@@ -1,0 +1,54 @@
+I"º<p>Quantitative Macro with Heterogeneous Agents</p>
+
+<ul>
+  <li><a href="/teaching/advmacro/SyllabusAdvMacro.pdf">Syllabus</a></li>
+  <li>
+    <p><a href="/teaching/advmacro/intro.pdf">Introduction</a></p>
+  </li>
+  <li>
+    <h3 id="household-heterogeneity">Household Heterogeneity</h3>
+    <ul>
+      <li><a href="/teaching/advmacro/motivation_hh.pdf">Motivation</a></li>
+      <li><a href="/teaching/advmacro/aiyagari.pdf">Bewley-Huggett-Aiyagari-Imrohoroglu Model</a></li>
+      <li><a href="/teaching/advmacro/aiyagari_computational.pdf">Aiyagari: Computational Details</a><br /> 
+   	<small>[<a href="/teaching/advmacro/Aiyagari_step_by_step.ipynb">Consumption-Savings using EGM (in Python)</a>] </small>
+  <br />   <small>[<a href="/teaching/advmacro/Aiyagari_EGM_notebook.jl.html">Notebook and Code for the solution using EGM (in Julia)</a>] </small>
+  <br /> 	<small>[<a href="/teaching/advmacro/Aiyagari_EGM.ipynb">Notebook and Code for the solution using EGM (in Python)</a>] </small>
+  <br /> 	<small>[<a href="/teaching/advmacro/Aiyagari_simple_notebook.jl.html">Notebook and Code for the solution using VFI (in Julia)</a>] </small></li>
+      <li><a href="/teaching/advmacro/STY2004_lifecycle.pdf">Life Cycle Economies</a></li>
+      <li><a href="/teaching/advmacro/KS_seq_space_jac.pdf">Krusell-Smith: Transition Dynamics and Agg. Uncertainty</a><br /> 
+  <small>[<a href="/teaching/advmacro/MIT_aiyagari_notebook.jl.html">Transition Dynamics and IRF Simulation using Boppart-Krusell-Mitman (in Julia)</a>] </small>
+  <br />  <small>[<a href="/teaching/advmacro/KS_seq_space_jac.ipynb">Krusell-Smith using Sequence-Space Jacobian (in Python)</a>] </small></li>
+      <li><a href="/teaching/advmacro/HANK_fiscal.pdf">HANK: Fiscal Policy</a></li>
+      <li><a href="/teaching/advmacro/HANK_monetary.pdf">HANK: Monetary Policy</a></li>
+    </ul>
+  </li>
+  <li>
+    <h3 id="firm-heterogeneity">Firm Heterogeneity</h3>
+    <ul>
+      <li><a href="/teaching/advmacro/motivation_firm.pdf">Motivation</a></li>
+      <li><a href="/teaching/advmacro/hopenhayn.pdf">Hopenhayn Model</a> <br /> <small>[<a href="/teaching/advmacro/hopenhayn1992_notebook.jl.html">Notebook and Code (in Julia)</a>] </small>
+  <br /> 	<small>[<a href="/teaching/advmacro/hopenhayn1992.ipynb">Notebook and Code (in Python / Jupyter Notebook)</a>] </small></li>
+      <li><a href="/teaching/advmacro/hopenhayn_rogerson.pdf">Hopenhayn-Rogerson</a><br />
+   	<small>[<a href="/teaching/advmacro/hopenhayn_rogerson1993_notebook.jl.html">Notebook and Code (in Julia)</a>] </small>
+  <br /> 	<small>[<a href="/teaching/advmacro/hopenhayn_rogerson1993.ipynb">Notebook and Code (in Python / Jupyter Notebook)</a>] </small></li>
+      <li>Melitz Model (Placeholder)</li>
+      <li><a href="/teaching/advmacro/misallocation.pdf">Misallocation</a></li>
+      <li><a href="/teaching/advmacro/ff_midrigan_xu.pdf">Financial Frictions</a></li>
+      <li><a href="/teaching/advmacro/cycles.pdf">Firms and Business Cycles</a></li>
+      <li>Product and Labor Market Power (Placeholder)</li>
+    </ul>
+  </li>
+  <li><a href="/teaching/advmacro/data_macro.pdf">Calibration and the Use of Data in Macro</a></li>
+</ul>
+
+<h3 id="problem-sets">Problem Sets</h3>
+
+<ul>
+  <li><a href="/teaching/advmacro/PSET0.pdf">Problem Set 0</a> <small>[<a href="/teaching/advmacro/Lucas_1978.jl.html">Lucas (1978) Span-of-Control Model</a>] [<a href="/teaching/advmacro/vfIter.html">Value Function Iteration</a>]  </small></li>
+  <li><a href="/teaching/advmacro/PSET1.pdf">Problem Set 1</a></li>
+  <li><a href="/teaching/advmacro/PSET2.pdf">Problem Set 2</a> <small>[<a href="/teaching/advmacro/PSET2_blank.ipynb">PSET2_blank.ipynb</a>] </small></li>
+  <li><a href="/teaching/advmacro/PSET3.pdf">Problem Set 3</a></li>
+</ul>
+
+:ET
