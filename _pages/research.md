@@ -66,7 +66,7 @@ Assessments of the role played by misallocation in shaping total factor producti
 </small><br><br/></div>
 
 [misal_PWT]: {{ site.baseurl }}{% link assets/files/Misallocation_PWT.pdf %}
-[bcb_wp]: {{ site.baseurl }}{% https://www.bcb.gov.br/content/publicacoes/WorkingPaperSeries/WP603.pdf %}
+[bcb_wp]: https://www.bcb.gov.br/content/publicacoes/WorkingPaperSeries/WP603.pdf
 
 
 **Misallocation and Human Capital Accumulation over the Life Cycle**, joint with Zoubir Benhamouche. 2022. <br/> 
