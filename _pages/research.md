@@ -59,13 +59,15 @@ This paper studies the effects of the minimum wage on the life cycle of firms. W
 [IDB_mw]: https://publications.iadb.org/en/minimum-wage-business-dynamism-and-life-cycle-firms
 
 **Revisiting the Facts of Economic Growth: insights from assessing misallocation over 70 years for up to 100 countries**, joint with Thiago Trafane Oliveira Santos. 2024. <br/> 
-<small>[<a href="#" onclick="visib('pwt')">Abstract</a> | [Draft][misal_PWT]] </small>
+<small>[<a href="#" onclick="visib('pwt')">Abstract</a> | [Draft][misal_PWT] | [BCB Working Paper][bcb_wp]] </small>
 
 <div id="pwt" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Assessments of the role played by misallocation in shaping total factor productivity (TFP) have been hindered by constraints in the availability of firm-level data. This paper addresses this issue by developing a static Cournot model that primarily requires standard macroeconomic data to estimate market-power-driven misallocation. We apply this framework to decompose aggregate TFP into technology and allocative efficiency components from 1950 to 2019 for up to a hundred countries from the Penn World Table 10.01. Utilizing this decomposition, we revisit key facts of economic growth. On the one hand, we evaluate the world income frontier as proxied by the US, finding that changes in misallocation can significantly impact short-run growth. On the other hand, we examine the economic performance around the world. Misallocation enhances our understanding of cross-country income differences, even though a substantial unexplained portion persists. We also find a lack of convergence in allocative efficiency, suggesting market-power-driven misallocation is linked, in the long run, to long-lasting country-specific factors such as institutions.
 </small><br><br/></div>
 
 [misal_PWT]: {{ site.baseurl }}{% link assets/files/Misallocation_PWT.pdf %}
+[bcb_wp]: {{ site.baseurl }}{% https://www.bcb.gov.br/content/publicacoes/WorkingPaperSeries/WP603.pdf %}
+
 
 **Misallocation and Human Capital Accumulation over the Life Cycle**, joint with Zoubir Benhamouche. 2022. <br/> 
 <small>[<a href="#" onclick="visib('HC_misall')">Abstract</a> | [Draft (under request)]] </small>
