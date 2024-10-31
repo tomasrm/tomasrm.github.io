@@ -68,6 +68,17 @@ Assessments of the role played by misallocation in shaping total factor producti
 [misal_PWT]: {{ site.baseurl }}{% link assets/files/Misallocation_PWT.pdf %}
 [bcb_wp]: https://www.bcb.gov.br/content/publicacoes/WorkingPaperSeries/WP603.pdf
 
+**Disentangling Brazilian TFP: the role of misallocation in recent economic cycles**, joint with Thiago Trafane Oliveira Santos. 2024. <br/> 
+<small>[<a href="#" onclick="visib('pwt')">Abstract</a> | [Draft][misal_BR] | BCB Working Paper] </small>
+
+<div id="pwt" style="display: none; text-align: justify; line-height: 1.2" ><small>
+This paper investigates the role of market-power-driven misallocation in shaping TFP during recent economic cycles in Brazil, using the static Cournot model of Martinez and Santos (2024). The model primarily relies on macroeconomic data for calibration, allowing us to decompose Brazil’s national TFP into technology and allocative efficiency components from 2000 to 2019. Over these two decades, we observe an upward trend in allocative efficiency, reflecting an increase in the labor income share and a corresponding decrease in the average markup, in sharp contrast with most developed countries. Our results further indicate that the cycles in Brazilian TFP are largely driven by allocative efficiency, with the mid-2000s economic boom mainly attributed to efficiency gains. In contrast, the technology component grows more steadily, around 0.9% per year, suggesting it reflects structural characteristics of the economy. Since allocative efficiency is bounded, this 0.9% annual growth rate can be interpreted as the current long-run growth level of TFP in Brazil.
+</small><br><br/></div>
+
+[misal_BR]: {{ site.baseurl }}{% link assets/files/Misallocation_BR.pdf %}
+
+
+
 
 **Misallocation and Human Capital Accumulation over the Life Cycle**, joint with Zoubir Benhamouche. 2022. <br/> 
 <small>[<a href="#" onclick="visib('HC_misall')">Abstract</a> | [Draft (under request)]] </small>
