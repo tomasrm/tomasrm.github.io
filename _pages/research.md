@@ -77,9 +77,6 @@ This paper investigates the role of market-power-driven misallocation in shaping
 
 [misal_BR]: {{ site.baseurl }}{% link assets/files/Misallocation_BR.pdf %}
 
-
-
-
 **Misallocation and Human Capital Accumulation over the Life Cycle**, joint with Zoubir Benhamouche. 2022. <br/> 
 <small>[<a href="#" onclick="visib('HC_misall')">Abstract</a> | [Draft (under request)]] </small>
 
