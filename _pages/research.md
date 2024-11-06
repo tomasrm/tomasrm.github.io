@@ -11,7 +11,7 @@ permalink: /research/
 # <center> Publications </center>
 - - -
 
-**Trade Shocks and Higher-Order Earnings Risk in Local Labor Markets**, joint with [Ursula Mello][ursula]. 2024. *International Economic Review, Forthcoming.* <br/> 
+**Trade Shocks and Higher-Order Earnings Risk in Local Labor Markets**, joint with [Ursula Mello][ursula]. 2024. *International Economic Review, vol 65, no 4, pp 1717-45.* <br/> 
 <small> *Best Paper in Macro at the 44th Meeting of the Brazilian Econometric Society* </small> <br/> 
 <small>[<a href="#" onclick="visib('trade_risk')">Abstract</a> | [Paper][IER2024] | [Working Paper (with Online Appendix)][trade_risk] | [BSE Blog Post][MM_blog]] </small>
 
