@@ -45,11 +45,19 @@ What are the aggregate effects of informality in a financially constrained econo
 # <center> Working Papers </center>
 - - -
 
+**Gender and Top Lifetime Earnings Inequality: Ten New Facts from Brazil**, joint with [Antonio Martins-Neto][antonio] and [Ursula Mello][ursula]. 2024. <br/> 
+<small>[<a href="#" onclick="visib('gender_top_inequality')">Abstract</a> | Draft (under request)] </small>
+
+<div id="gender_top_inequality" style="display: none; text-align: justify; line-height: 1.2" ><small>
+This paper presents ten new facts on gender and top lifetime earnings inequality in Brazil, drawing on rich administrative data covering nearly the entire formal labor market from 1985 to 2018. We document significant gender disparities in lifetime earnings, particularly among top earners, where women are both underrepresented and face larger earnings gaps compared to men. We identify key drivers of this inequality, including career interruptions, occupational segregation, employment in large firms, and job-switching patterns. Public sector employment partially mitigates these gaps.
+</small><br><br/></div>
+
+[antonio]: https://sites.google.com/view/martinsneto-as/home
 
 **Minimum Wage, Business Dynamism, and the Life Cycle of Firms**, joint with [André Victor Luduvice][AV] and [Alexandre Sollaci][alex]. 2024. <br/> 
-<small>[<a href="#" onclick="visib('min_wage_')">Abstract</a> | [Draft][LMS_MW] | [IDB Working Paper][IDB_mw]] </small>
+<small>[<a href="#" onclick="visib('min_wage')">Abstract</a> | [Draft][LMS_MW] | [IDB Working Paper][IDB_mw]] </small>
 
-<div id="min_wage_" style="display: none; text-align: justify; line-height: 1.2" ><small>
+<div id="min_wage" style="display: none; text-align: justify; line-height: 1.2" ><small>
 This paper studies the effects of the minimum wage on the life cycle of firms. We first build a tractable model where heterogeneous firms have labor market power, invest in innovation, and choose formal or informal sectors. The model predicts that a minimum wage hike not only shrinks the young and low- productivity firms but also lowers the incentives to innovate, resulting in a lower life cycle growth. We then test the predictions of the model using Brazilian administrative and census data leveraging the variation in exposure across establishments and municipalities to the large increase in the minimum wage between 1999 and 2010. At the establishment level, an increase in the minimum wage: (i) decreases the growth rates of small and young establishments and (ii) increases the growth rates of old and large establishments. When analyzing exposed municipalities, we observe an increase in the earnings of workers in both the formal and informal sectors, as well as informal employment. Our findings suggest that the minimum wage is a possible explanation for the decline in the importance of young establishments and business dynamism in Brazil.
 </small><br><br/></div>
 
@@ -69,13 +77,14 @@ Assessments of the role played by misallocation in shaping total factor producti
 [bcb_wp]: https://www.bcb.gov.br/content/publicacoes/WorkingPaperSeries/WP603.pdf
 
 **Disentangling Brazilian TFP: the role of misallocation in recent economic cycles**, joint with Thiago Trafane Oliveira Santos. 2024. <br/> 
-<small>[<a href="#" onclick="visib('mis_BR')">Abstract</a> | [Draft][misal_BR] | BCB Working Paper] </small>
+<small>[<a href="#" onclick="visib('mis_BR')">Abstract</a> | [Draft][misal_BR] | [BCB Working Paper][bcb_wp_BR]] </small>
 
 <div id="mis_BR" style="display: none; text-align: justify; line-height: 1.2" ><small>
 This paper investigates the role of market-power-driven misallocation in shaping TFP during recent economic cycles in Brazil, using the static Cournot model of Martinez and Santos (2024). The model primarily relies on macroeconomic data for calibration, allowing us to decompose Brazil’s national TFP into technology and allocative efficiency components from 2000 to 2019. Over these two decades, we observe an upward trend in allocative efficiency, reflecting an increase in the labor income share and a corresponding decrease in the average markup, in sharp contrast with most developed countries. Our results further indicate that the cycles in Brazilian TFP are largely driven by allocative efficiency, with the mid-2000s economic boom mainly attributed to efficiency gains. In contrast, the technology component grows more steadily, around 0.9% per year, suggesting it reflects structural characteristics of the economy. Since allocative efficiency is bounded, this 0.9% annual growth rate can be interpreted as the current long-run growth level of TFP in Brazil.
 </small><br><br/></div>
 
 [misal_BR]: {{ site.baseurl }}{% link assets/files/Misallocation_BR.pdf %}
+[bcb_wp_BR]: https://www.bcb.gov.br/content/publicacoes/WorkingPaperSeries/WP609v2.pdf
 
 
 **Misallocation and Human Capital Accumulation over the Life Cycle**, joint with Zoubir Benhamouche. 2022. <br/> 
@@ -99,7 +108,7 @@ In this paper, I argue that job polarization, the disappearing of middle wage oc
 # <center> Work in Progress </center>
 - - -
 
-**Gender and Top Lifetime Earnings Inequality in Brazil**, joint with Ursula Mello and Antonio Martins-Neto.
+**Gender and Top Lifetime Earnings Inequality in Brazil**, 
 
 
 
