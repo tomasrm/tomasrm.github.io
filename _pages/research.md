@@ -108,7 +108,6 @@ In this paper, I argue that job polarization, the disappearing of middle wage oc
 # <center> Work in Progress </center>
 - - -
 
-**Gender and Top Lifetime Earnings Inequality in Brazil**, 
 
 
 
