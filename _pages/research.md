@@ -54,7 +54,7 @@ This paper presents ten new facts on gender and top lifetime earnings inequality
 
 [lifetime_ineq]: {{ site.baseurl }}{% link assets/files/MMM_lifetime_ineq.pdf %} 
 [antonio]: https://sites.google.com/view/martinsneto-as/home
-[ineq_SSRN]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5084809
+[ineq_SSRN]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5085789
 
 **Minimum Wage, Business Dynamism, and the Life Cycle of Firms**, joint with [André Victor Luduvice][AV] and [Alexandre Sollaci][alex]. 2024. <br/> 
 <small>[<a href="#" onclick="visib('min_wage')">Abstract</a> | [Draft][LMS_MW] | [IDB Working Paper][IDB_mw]] </small>
