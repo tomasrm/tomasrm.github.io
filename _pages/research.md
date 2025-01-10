@@ -46,7 +46,7 @@ What are the aggregate effects of informality in a financially constrained econo
 - - -
 
 **Gender and Top Lifetime Earnings Inequality: Ten New Facts from Brazil**, joint with [Antonio Martins-Neto][antonio] and [Ursula Mello][ursula]. 2024. <br/> 
-<small>[<a href="#" onclick="visib('gender_top_inequality')">Abstract</a> | [Draft][lifetime_ineq] | [SSRN WP][ineq_SSRN]] </small>
+<small>[<a href="#" onclick="visib('gender_top_inequality')">Abstract</a> | [Draft][lifetime_ineq] | [IZA WP][IZA_lifetime_ineq] | [SSRN WP][ineq_SSRN]] </small>
 
 <div id="gender_top_inequality" style="display: none; text-align: justify; line-height: 1.2" ><small>
 This paper presents ten new facts on gender and top lifetime earnings inequality in Brazil, drawing on rich administrative data covering nearly the entire formal labor market from 1985 to 2018. We document significant gender disparities in lifetime earnings, particularly among top earners, where women are both underrepresented and face larger earnings gaps compared to men. We identify key drivers of this inequality, including career interruptions, occupational segregation, employment in large firms, and job-switching patterns. Public sector employment partially mitigates these gaps.
@@ -55,6 +55,8 @@ This paper presents ten new facts on gender and top lifetime earnings inequality
 [lifetime_ineq]: {{ site.baseurl }}{% link assets/files/MMM_lifetime_ineq.pdf %} 
 [antonio]: https://sites.google.com/view/martinsneto-as/home
 [ineq_SSRN]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5085789
+[IZA_lifetime_ineq]: https://www.iza.org/publications/dp/17602/gender-and-top-lifetime-earnings-inequality-ten-new-facts-from-brazil
+
 
 **Minimum Wage, Business Dynamism, and the Life Cycle of Firms**, joint with [André Victor Luduvice][AV] and [Alexandre Sollaci][alex]. 2024. <br/> 
 <small>[<a href="#" onclick="visib('min_wage')">Abstract</a> | [Draft][LMS_MW] | [IDB Working Paper][IDB_mw]] </small>
