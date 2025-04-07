@@ -14,17 +14,20 @@ permalink: /teaching/
 
 **At INSPER**
 
-  * [Advanced Macroeconomics][8] (PhD, 2024)
+  * [Advanced Macroeconomics][8] (PhD, 2024, 2025)
   
   * [Macroeconomics 1][9] (PhD, 2024)
   
-  * [Macroeconomia Microfundamentada][10] (undergrad, 2024)
 
 <br/> 
 
 
 # <center> Previous Teaching </center>
 - - -
+
+**At INSPER**
+
+  * [Macroeconomia Microfundamentada][10] (undergrad, 2024)
 
 **Others:**
 
