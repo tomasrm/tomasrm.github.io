@@ -16,7 +16,7 @@ permalink: /teaching/
 
   * [Advanced Macroeconomics][8] (PhD, 2024, 2025)
   
-  * [Macroeconomics 1][9] (PhD, 2024)
+  * [Macroeconomics 1][9] (PhD, 2024, 2025)
   
 
 <br/> 
