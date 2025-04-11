@@ -48,9 +48,7 @@ The first course of the PhD-level sequence in macroeconomics at Insper.
 	3. [Problem Set 3][PSET3]
 	
 	4.
-	
 	5.
-	
 	6.
 
 [PSET1]: {{ site.baseurl }}{% link teaching/macro1grad/PSET1.pdf %}
