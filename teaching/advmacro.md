@@ -37,7 +37,7 @@ Quantitative Macro with Heterogeneous Agents
 	- [Misallocation][misallocation]
 	- [Financial Frictions][financial_fri]
 	- [Firms and Business Cycles][cycles]
-	- Product and Labor Market Power (Placeholder)
+	- [Product and Labor Market Power][mkt_power]
 
 - [Calibration and the Use of Data in Macro][datainmacro]
 
@@ -61,6 +61,7 @@ Quantitative Macro with Heterogeneous Agents
 [misallocation]: {{ site.baseurl }}{% link teaching/advmacro/misallocation.pdf %}
 [financial_fri]: {{ site.baseurl }}{% link teaching/advmacro/ff_midrigan_xu.pdf %}
 [cycles]: {{ site.baseurl }}{% link teaching/advmacro/cycles.pdf %}
+[mkt_power]: {{ site.baseurl }}{% link teaching/advmacro/mkt_power.pdf %}
 
 
 
