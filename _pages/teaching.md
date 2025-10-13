@@ -18,7 +18,8 @@ permalink: /teaching/
   
   * [Macroeconomics 1][9] (PhD, 2024, 2025)
   
-  * Macroeconomia Avançada (Master's, 2025)
+  * Macroeconomia Avançada (Master's, 2025)<br/> 
+   <sup> all the material will be  posted in Blackboard<sup> 
 
   
 
