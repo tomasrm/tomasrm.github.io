@@ -29,6 +29,8 @@ permalink: /resources/
 * [IPEA Data][14]: Brazilian aggregate data and indicators. 
 * [IBGE][15] and [Data Zoom][16]: Brazilian statistical agency and useful source for Brazilian microdata. 
 * [Our World in Data][22]: Interactive webpage with data from many topics, mostly cross-country and over time.
+* [Glossary of Economic Terms][glossary]: Thanks for the suggestion, Amia!
+
 
 <br/> 
 
@@ -60,6 +62,9 @@ There are many international rankings out there, and although the exact answer w
 [Ranking3]: https://ideas.repec.org/top/top.journals.all.html
 
 
+
+
+[glossary]: https://www.wallstreetprep.com/knowledge/glossary-of-economic-terms/
 
 
 [1]: https://www.rug.nl/ggdc/
