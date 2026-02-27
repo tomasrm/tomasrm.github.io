@@ -45,6 +45,26 @@ What are the aggregate effects of informality in a financially constrained econo
 # <center> Working Papers </center>
 - - -
 
+**Market Power with Formal and Informal Firms**, joint with [Cezar Santos][cezar]. 2026. <br/> 
+<small>[<a href="#" onclick="visib('mkt_power_informality')">Abstract</a> | [Draft][mkt_power_inf] </small>
+
+<div id="mkt_power_informality" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Market power among firms is a common feature in many economies, including in developing countries where a significant share of firms operate informally. This paper examines the interaction between market power and informality, and how this interaction shapes the impact of government policies. We develop a general equilibrium model with firm heterogeneity and oligopolistic output markets, in which firms endogenously decide whether to operate formally or informally. Informal firms evade taxes but incur enforcement costs. We calibrate the model using comprehensive administrative data from Brazil and perform several counterfactuals.
+</small><br><br/></div>
+
+[mkt_power_inf]: {{ site.baseurl }}{% link assets/files/mktpower_informality.pdf %} 
+[cezar]: https://sites.google.com/site/czrsantos/
+
+
+**The “Big Push” of International Trade: A Tale of Informality and Human Capital**, joint with [Francesco D'Ascanio][francesco]. 2026. <br/> 
+<small>[<a href="#" onclick="visib('big_push_trade')">Abstract</a> | [Draft (under request)]] </small>
+
+<div id="big_push_trade" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Informality is pervasive in many developing economies and is often accompanied by low investment in human capital. We study the effects of international trade through the lens of a model with heterogeneous firms and workers, featuring labor market frictions. Complementarity between workers’ human capital investment decisions and firms’ hiring strategies can give rise to multiple equilibria. In the “bad” equilibrium, informality have stronger incentives to formalize and workers invest more in human capital. We show that, under certain conditions, trade can act as a coordinating device that shifts the economy toward the good equilibrium. The novel mechanism we uncover involves effort in human capital investment as a key margin of adjustment to trade shocks.
+</small><br><br/></div>
+
+[francesco]: https://sites.google.com/view/francesco-dascanio/
+
 **Gender and Top Lifetime Earnings Inequality: Ten New Facts from Brazil**, joint with [Antonio Martins-Neto][antonio] and [Ursula Mello][ursula]. 2024. <br/> 
 <small>[<a href="#" onclick="visib('gender_top_inequality')">Abstract</a> | [Draft][lifetime_ineq] | [IZA WP][IZA_lifetime_ineq] | [SSRN WP][ineq_SSRN]] </small>
 

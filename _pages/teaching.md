@@ -14,15 +14,12 @@ permalink: /teaching/
 
 **At INSPER**
 
-  * [Advanced Macroeconomics][8] (PhD, 2024, 2025)
+  * [Advanced Macroeconomics][8] (PhD, 2024, 2025, 2026)
   
-  * [Macroeconomics 1][9] (PhD, 2024, 2025)
-  
-  * Macroeconomia Avançada (Master's, 2025)<br/> 
-   <sup> all the material will be  posted in Blackboard<sup> 
-
+  * [Macroeconomics 1][9] (PhD, 2024, 2025, 2026)
   
 
+  
 <br/> 
 
 
@@ -31,6 +28,9 @@ permalink: /teaching/
 
 **At INSPER**
 
+  * Macroeconomia Avançada (Master's, 2025)<br/> 
+   <sup> all the material will be  posted in Blackboard<sup> 
+   
   * [Macroeconomia Microfundamentada][10] (undergrad, 2024)
 
 **Others:**
