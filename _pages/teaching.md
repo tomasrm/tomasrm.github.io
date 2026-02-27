@@ -30,7 +30,6 @@ permalink: /teaching/
 
   * Macroeconomia Avançada (Master's, 2025)<br/> 
    <sup> all the material will be  posted in Blackboard<sup> 
-   
   * [Macroeconomia Microfundamentada][10] (undergrad, 2024)
 
 **Others:**

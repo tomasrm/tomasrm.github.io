@@ -46,7 +46,7 @@ What are the aggregate effects of informality in a financially constrained econo
 - - -
 
 **Market Power with Formal and Informal Firms**, joint with [Cezar Santos][cezar]. 2026. <br/> 
-<small>[<a href="#" onclick="visib('mkt_power_informality')">Abstract</a> | [Draft][mkt_power_inf] </small>
+<small>[<a href="#" onclick="visib('mkt_power_informality')">Abstract</a> | [Draft][mkt_power_inf]] </small>
 
 <div id="mkt_power_informality" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Market power among firms is a common feature in many economies, including in developing countries where a significant share of firms operate informally. This paper examines the interaction between market power and informality, and how this interaction shapes the impact of government policies. We develop a general equilibrium model with firm heterogeneity and oligopolistic output markets, in which firms endogenously decide whether to operate formally or informally. Informal firms evade taxes but incur enforcement costs. We calibrate the model using comprehensive administrative data from Brazil and perform several counterfactuals.
