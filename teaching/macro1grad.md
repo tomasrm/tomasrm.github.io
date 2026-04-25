@@ -14,7 +14,8 @@ The first course of the PhD-level sequence in macroeconomics at Insper.
 	2. [The Solow Model][2]
 	3. [Foundations of Dynamic General Equilibrium Models: Equilibrium, Welfare, & Uncertainty][3]
 	4. [The Neoclassical Growth Model][4] <br/> 
-<small>[[Shooting Algorithm][shooting]] </small>
+<small>[[Shooting Algorithm (Julia)][shooting]] </small>
+<small>[[Shooting Algorithm (Python)][shooting_py]] </small>
 	5. Dynamic Programming <br/> 
 <small>[[VFI code and notebook (Julia)][vfi]] </small>
 <small>[[VFI code and notebook(Python)][vfi_py]] </small>
@@ -37,6 +38,7 @@ The first course of the PhD-level sequence in macroeconomics at Insper.
 [vfi]: {{ site.baseurl }}{% link teaching/macro1grad/vfIter.html %}
 [vfi_py]: {{ site.baseurl }}{% link teaching/macro1grad/vfIter.ipynb %}
 [shooting]: {{ site.baseurl }}{% link teaching/macro1grad/shooting.jl.html %}
+[shooting_py]: {{ site.baseurl }}{% link teaching/macro1grad/shooting.py %}
 
 
 * ## Problem Sets:
