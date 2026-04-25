@@ -53,6 +53,11 @@ The first course of the PhD-level sequence in macroeconomics at Insper.
 
 
 [PSET1]: {{ site.baseurl }}{% link teaching/macro1grad/PSET1.pdf %}
+[PSET2]: {{ site.baseurl }}{% link teaching/macro1grad/PSET2.pdf %}
+[PSET3]: {{ site.baseurl }}{% link teaching/macro1grad/PSET3.pdf %}
+[PSET4]: {{ site.baseurl }}{% link teaching/macro1grad/PSET4.pdf %}
+[PSET5]: {{ site.baseurl }}{% link teaching/macro1grad/PSET5.pdf %}
+[PSET6]: {{ site.baseurl }}{% link teaching/macro1grad/PSET6.pdf %}
 
 
 * ## Exam Solutions:
