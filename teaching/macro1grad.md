@@ -16,7 +16,7 @@ The first course of the PhD-level sequence in macroeconomics at Insper.
 	4. [The Neoclassical Growth Model][4] <br/> 
 <small>[[Shooting Algorithm (Julia)][shooting]] </small>
 <small>[[Shooting Algorithm (Python)][shooting_py]] </small>
-	5. Dynamic Programming <br/> 
+	5. [Dynamic Programming][5] <br/> 
 <small>[[VFI code and notebook (Julia)][vfi]] </small>
 <small>[[VFI code and notebook(Python)][vfi_py]] </small>
 	6. [The Overlapping Generations Model][6]
@@ -29,7 +29,7 @@ The first course of the PhD-level sequence in macroeconomics at Insper.
 [2]: {{ site.baseurl }}{% link teaching/macro1grad/2_solow.pdf %}
 [3]: {{ site.baseurl }}{% link teaching/macro1grad/3_dynamic_eq.pdf %}
 [4]: {{ site.baseurl }}{% link teaching/macro1grad/4_neoclassical_growth_model.pdf %}
-
+[5]: {{ site.baseurl }}{% link teaching/macro1grad/5_DynProgram.pdf %}
 [6]: {{ site.baseurl }}{% link teaching/macro1grad/6_olg_model.pdf %}
 [7]: {{ site.baseurl }}{% link teaching/macro1grad/7_fiscal_policy.pdf %}
 [8]: {{ site.baseurl }}{% link teaching/macro1grad/8_SearchMatching.pdf %}
