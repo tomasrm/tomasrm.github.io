@@ -65,7 +65,7 @@ Informality is pervasive in many developing economies and is often accompanied b
 
 [francesco]: https://sites.google.com/view/francesco-dascanio/
 
-**Gender and Top Lifetime Earnings Inequality: Ten New Facts from Brazil**, joint with [Antonio Martins-Neto][antonio] and [Ursula Mello][ursula]. 2024. <br/> 
+**Gender and Top Lifetime Earnings Inequality: New Facts from Brazil**, joint with [Antonio Martins-Neto][antonio] and [Ursula Mello][ursula]. 2026. <br/> 
 <small>[<a href="#" onclick="visib('gender_top_inequality')">Abstract</a> | [Draft][lifetime_ineq] | [IZA WP][IZA_lifetime_ineq] | [SSRN WP][ineq_SSRN]] </small>
 
 <div id="gender_top_inequality" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -90,7 +90,7 @@ This paper studies the effects of the minimum wage on the life cycle of firms. W
 [alex]: https://sites.google.com/view/alexandresollaci/home
 [IDB_mw]: https://publications.iadb.org/en/minimum-wage-business-dynamism-and-life-cycle-firms
 
-**Revisiting the Facts of Economic Growth: insights from assessing misallocation over 70 years for up to 100 countries**, joint with Thiago Trafane Oliveira Santos. 2024. <br/> 
+**Revisiting the Facts of Economic Growth: insights from assessing misallocation over 70 years for up to 100 countries**, joint with Thiago Trafane Oliveira Santos. 2026. <br/> 
 <small>[<a href="#" onclick="visib('pwt')">Abstract</a> | [Draft][misal_PWT] | [BCB Working Paper][bcb_wp]] </small>
 
 <div id="pwt" style="display: none; text-align: justify; line-height: 1.2" ><small>
