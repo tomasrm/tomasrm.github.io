@@ -33,7 +33,6 @@ This paper investigates the relationship between international trade and asymmet
 What are the aggregate effects of informality in a financially constrained economy? We develop and calibrate an entrepreneurship model to data on matched employer-employee from both formal and informal sectors in Brazil. The model distinguishes between informality on the business side (extensive margin) and the informal hiring by formal firms (intensive margin). We find that when informality is eliminated along both margins, aggregate output increases 9.3%, capital 14.7%, TFP 5.4%, and tax revenue 37%. The output and TFP increases would be much larger if informality were only eliminated on the extensive margin, a result that supports the view that the informal economy can play a positive role in an economy with financial frictions. Finally, we find that the output cost of financing social security in our baseline model is about twice as large as the one in an economy with no frictions.
 </small><br><br/></div>
 
-[//]:[informal_FF]: {{ site.baseurl }}{% link assets/files/EFM_informality.pdf %}
 [informal_FF]: {{ site.baseurl }}{% link assets/files/EFM_resub.pdf %}
 [EFM_JME2023]: {{ site.baseurl }}{% link assets/files/EFM_JME2023.pdf %}
 [EFM_slides]: {{ site.baseurl }}{% link assets/files/EFM_Slides_2022_75min.pdf %}
