@@ -61,8 +61,10 @@ The first course of the PhD-level sequence in macroeconomics at Insper.
 
 
 * ## Exam Solutions:
-	- [Midterm 2024][midterm_2024] [Midterm 2025][midterm_2025]
+	- [Midterm 2024][midterm_2024] [Midterm 2025][midterm_2025] [Midterm 2026][midterm_2026]
 	- [Final 2024][final_2024] [Final 2025][final_2025]
+
+[midterm_2026]: {{ site.baseurl }}{% link teaching/macro1grad/2026_midterm_solution.pdf %}
 
 
 [midterm_2025]: {{ site.baseurl }}{% link teaching/macro1grad/2025_midterm_solution.pdf %}
@@ -70,6 +72,7 @@ The first course of the PhD-level sequence in macroeconomics at Insper.
 
 [midterm_2024]: {{ site.baseurl }}{% link teaching/macro1grad/2024_midterm_Solution.pdf %}
 [final_2024]: {{ site.baseurl }}{% link teaching/macro1grad/2024_final_solution.pdf %}
+
 
 * Older slides [here][slides_old]
 
