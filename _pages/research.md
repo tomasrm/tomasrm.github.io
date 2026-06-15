@@ -56,12 +56,13 @@ Market power among firms is a common feature in many economies, including in dev
 
 
 **The “Big Push” of International Trade: A Tale of Informality and Human Capital**, joint with [Francesco D'Ascanio][francesco]. 2026. <br/> 
-<small>[<a href="#" onclick="visib('big_push_trade')">Abstract</a> | [Draft (under request)]] </small>
+<small>[<a href="#" onclick="visib('big_push_trade')">Abstract</a> | [Draft][trade_big_push]] </small>
 
 <div id="big_push_trade" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Informality is pervasive in many developing economies and is often accompanied by low investment in human capital. We study the effects of international trade through the lens of a model with heterogeneous firms and workers, featuring labor market frictions. Complementarity between workers’ human capital investment decisions and firms’ hiring strategies can give rise to multiple equilibria. In the “bad” equilibrium, informality have stronger incentives to formalize and workers invest more in human capital. We show that, under certain conditions, trade can act as a coordinating device that shifts the economy toward the good equilibrium. The novel mechanism we uncover involves effort in human capital investment as a key margin of adjustment to trade shocks.
 </small><br><br/></div>
 
+[trade_big_push]: {{ site.baseurl }}{% link assets/files/trade_bigpush.pdf %} 
 [francesco]: https://sites.google.com/view/francesco-dascanio/
 
 **Gender and Top Lifetime Earnings Inequality: New Facts from Brazil**, joint with [Antonio Martins-Neto][antonio] and [Ursula Mello][ursula]. 2026. <br/> 
